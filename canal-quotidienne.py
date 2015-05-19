@@ -1,8 +1,13 @@
 #!/usr/bin/python
 #coding: utf-8
 
-import os, urllib, re, time, subprocess
+import os, re, time, subprocess
 from xml.dom import minidom
+
+try:
+    import urllib.request as compat_urllib_request
+except ImportError:  # Python 2
+    import urllib2 as compat_urllib_request
 
 
 emissions=[
@@ -88,14 +93,8 @@ class Canal :
 		return ids
 
 	def __downloadXml(self,url):
-		try:
-			xmlFile = urllib.urlopen(url).read()
-		except Exception :
-			return 1
-		try:
-			xmldoc = minidom.parseString(xmlFile)
-		except Exception :
-			xmldoc = 1
+		xmlFile = compat_urllib_request.urlopen(url).read()
+		xmldoc = minidom.parseString(xmlFile)
 		return xmldoc
 
 	def __checkHistory(self,log_emission):
