@@ -122,7 +122,11 @@ class Canal :
 		return ids
 
 	def __downloadXml(self,url):
-		xmlFile = compat_urllib_request.urlopen(url).read()
+		try:
+			xmlFile = compat_urllib_request.urlopen(url).read()
+		except Exception :
+			print("Problème de téléchargement, réessayez plus tard")
+			exit()
 		xmldoc = minidom.parseString(xmlFile)
 		return xmldoc
 
