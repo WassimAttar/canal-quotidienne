@@ -46,19 +46,23 @@ emissions=[
 ]
 
 homedir = os.path.expanduser('~')
+
+# Dossier ou les vidéos seront sauvegardées
 outputdir = homedir + "/Téléchargements/"
+
+# Fichier de l'historique des vidéos déjà téléchargées
 historique = outputdir + ".cplus_hist"
 
 class Canal :
 
+	# URL de toutes les vidéos d'une émission donnée.
 	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/%s'
 
 	# L'URL pour télécharger une vidéo peut être quelconque.
 	# Ce qui importe est le numéro envoyé à la variable vid.
 	# Nous pouvons donc envoyer un numéro vid du Zapping avec une URL des Guignols.
-	# Par défaut, l'URL choisie est celle des Guignols mais on peut utiliser l'URL du Zapping
+	# Par défaut, l'URL choisie est celle des Guignols mais on peut utiliser l'URL du Zapping.
 	# http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html
-
 	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s'
 
 	__codeEmission = ""
@@ -69,7 +73,6 @@ class Canal :
 		self.__codeEmission = emission[0]
 		self.__nomEmission = emission[1]
 
-
 	def __checkYoutubeDlInstallation(self):
 		try:
 				subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -77,6 +80,11 @@ class Canal :
 			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
 			exit()
 
+	# Les dates fournies par canal ne sont pas toujours bien formatées.
+	# Parfois c'est 02/05/2015 ou 02/05/15 ou 02/05
+	# Pour avoir l'historique et donc éviter de télécharger plusieurs fois la même émission
+	# il est nécessaire de formater toujours de la même façon la date de diffusion de l'émission.
+	# La forme choisie est la suivante 02/05/15
 	def __getDate(self,i):
 		L = ['TITRE','SOUS_TITRE']
 		grep_date_annee_complete = '[0-9]{2}/[0-9]{2}/[0-9]{4}'
@@ -116,11 +124,16 @@ class Canal :
 				return True
 		return False
 
+	# L'historique des téléchargements est sous la forme
+	# Guignols|18/05/15
+	# Zapping|18/05/15
 	def __addHistory(self,log_emission):
 		file = open(historique, 'a')
 		file.write(log_emission.encode('utf-8') + '\n')
 		file.close()
 
+	# youtube-dl se charge de télécharger la vidéo.
+	# La qualité est toujours à best
 	def __youtubeDl(self,url,episode_emission):
 		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url % str(episode_emission)]
 		p = subprocess.Popen(cmd_args)
