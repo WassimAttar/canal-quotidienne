@@ -14,6 +14,9 @@ emissions=[
 [48,"Guignols"],
 [201,"Zapping"],
 
+# [121,"Bandes de filles"],
+# [14,"Le Cercle"],
+# [39,"Connasse"],
 # [130,	"Action discrete"],
 # [304,	"Action discrete"],
 # [371,	"Action discrete"],
