@@ -46,26 +46,26 @@ emissions=[
 ]
 
 homedir = os.path.expanduser('~')
-output_dir = homedir + "/Téléchargements/"
-historique = output_dir + ".cplus_hist"
+outputdir = homedir + "/Téléchargements/"
+historique = outputdir + ".cplus_hist"
 
 class Canal :
 
-	__urlXMLMEA = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/%s'
+	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/%s'
 
 	# L'URL pour télécharger une vidéo peut être quelconque.
 	# Ce qui importe est le numéro envoyé à la variable vid.
-	# Nous pouvons donc envoyer un numéro vid du Zapping avec une URL des Guignols
+	# Nous pouvons donc envoyer un numéro vid du Zapping avec une URL des Guignols.
 	# Par défaut, l'URL choisie est celle des Guignols mais on peut utiliser l'URL du Zapping
 	# http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html
 
 	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s'
 
-	def __init__(self,CodeEmission="", NomEmission=""):
-		self.CodeEmission = CodeEmission
-		self.NomEmission = NomEmission
+	def __init__(self,codeEmission="", nomEmission=""):
+		self.codeEmission = codeEmission
+		self.nomEmission = nomEmission
 
-	def __GetDate(self,i):
+	def __getDate(self,i):
 		L = ['TITRE','SOUS_TITRE']
 		grep_date_annee_complete = '[0-9]{2}/[0-9]{2}/[0-9]{4}'
 		grep_date_annee = '[0-9]{2}/[0-9]{2}/[0-9]{2}'
@@ -81,7 +81,7 @@ class Canal :
 				return re.findall(grep_date_mois, valeur)[0]+"/"+time.strftime("%y")
 		return ""
 
-	def __ParseXmlMea(self,xmldoc):
+	def __parseXmlMea(self,xmldoc):
 		ids = []
 		meas = xmldoc.getElementsByTagName('MEA')
 		for i in meas:
@@ -89,7 +89,7 @@ class Canal :
 				id = i.getElementsByTagName('ID')[0].childNodes[0].nodeValue
 				titre = i.getElementsByTagName('TITRE')[0].childNodes[0].nodeValue
 				if 'semaine' not in titre.lower():
-					ids.append([id,self.NomEmission,titre,self.__GetDate(i)])
+					ids.append([id,self.nomEmission,titre,self.__getDate(i)])
 		return ids
 
 	def __downloadXml(self,url):
@@ -110,18 +110,18 @@ class Canal :
 		file.close()
 
 	def __youtubeDl(self,url,episode_emission):
-		cmd_args = ['youtube-dl','-f','best', "-o", output_dir+"%(title)s.%(ext)s", url % str(episode_emission)]
+		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url % str(episode_emission)]
 		p = subprocess.Popen(cmd_args)
 		return p.wait()
 
-	def __GetUrlXmlMea(self,code):
-		return self.__urlXMLMEA % code
+	def __geturlXmlMea(self,code):
+		return self.__urlXmlMea % code
 
 	def download(self):
-		UrlXmlMea = self.__GetUrlXmlMea(self.CodeEmission)
-		XmlMea = self.__downloadXml(UrlXmlMea)
-		ListID = self.__ParseXmlMea(XmlMea)
-		for episode_emission in ListID :
+		urlXmlMea = self.__geturlXmlMea(self.codeEmission)
+		xmlMea = self.__downloadXml(urlXmlMea)
+		listID = self.__parseXmlMea(xmlMea)
+		for episode_emission in listID :
 			log_emission = episode_emission[1]+"|"+episode_emission[3]
 			if not self.__checkHistory(log_emission) :
 				if self.__youtubeDl(self.__urlVideo,episode_emission[0]) == 0 :
@@ -130,5 +130,5 @@ class Canal :
 
 
 for emission in emissions:
-	MyVideo = Canal(CodeEmission=emission[0],NomEmission=emission[1])
-	MyVideo.download()
+	myVideo = Canal(codeEmission=emission[0],nomEmission=emission[1])
+	myVideo.download()
