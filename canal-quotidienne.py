@@ -61,9 +61,12 @@ class Canal :
 
 	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s'
 
-	def __init__(self,codeEmission="", nomEmission=""):
-		self.codeEmission = codeEmission
-		self.nomEmission = nomEmission
+	__codeEmission = ""
+	__nomEmission = ""
+
+	def __init__(self,emission):
+		self.__codeEmission = emission[0]
+		self.__nomEmission = emission[1]
 
 	def __getDate(self,i):
 		L = ['TITRE','SOUS_TITRE']
@@ -89,7 +92,7 @@ class Canal :
 				id = i.getElementsByTagName('ID')[0].childNodes[0].nodeValue
 				titre = i.getElementsByTagName('TITRE')[0].childNodes[0].nodeValue
 				if 'semaine' not in titre.lower():
-					ids.append([id,self.nomEmission,titre,self.__getDate(i)])
+					ids.append([id,self.__nomEmission,titre,self.__getDate(i)])
 		return ids
 
 	def __downloadXml(self,url):
@@ -118,7 +121,7 @@ class Canal :
 		return self.__urlXmlMea % code
 
 	def download(self):
-		urlXmlMea = self.__geturlXmlMea(self.codeEmission)
+		urlXmlMea = self.__geturlXmlMea(self.__codeEmission)
 		xmlMea = self.__downloadXml(urlXmlMea)
 		listID = self.__parseXmlMea(xmlMea)
 		for episode_emission in listID :
@@ -130,5 +133,5 @@ class Canal :
 
 
 for emission in emissions:
-	myVideo = Canal(codeEmission=emission[0],nomEmission=emission[1])
+	myVideo = Canal(emission)
 	myVideo.download()
