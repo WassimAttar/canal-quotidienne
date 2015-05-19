@@ -65,8 +65,17 @@ class Canal :
 	__nomEmission = ""
 
 	def __init__(self,emission):
+		self.__checkYoutubeDlInstallation()
 		self.__codeEmission = emission[0]
 		self.__nomEmission = emission[1]
+
+
+	def __checkYoutubeDlInstallation(self):
+		try:
+				subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		except OSError as e:
+			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
+			exit()
 
 	def __getDate(self,i):
 		L = ['TITRE','SOUS_TITRE']
