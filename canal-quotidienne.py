@@ -6,8 +6,8 @@ from xml.dom import minidom
 
 
 emissions=[
-[48,"Guignols","http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s"],
-[201,"Zapping","http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html?vid=%s"]
+[48,"Guignols"],
+[201,"Zapping"]
 ]
 
 homedir = os.path.expanduser('~')
@@ -18,10 +18,17 @@ class Canal :
 
 	__urlXMLMEA = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/%s'
 
-	def __init__(self,CodeEmission="", NomEmission="", UrlEmission=""):
+	# L'URL pour télécharger une vidéo peut être quelconque.
+	# Ce qui importe est le numéro envoyé à la variable vid.
+	# Nous pouvons donc envoyer un numéro vid du Zapping avec une URL des Guignols
+	# Par défaut, l'URL choisie est celle des Guignols mais on peut utiliser l'URL du Zapping
+	# http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html
+
+	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s'
+
+	def __init__(self,CodeEmission="", NomEmission=""):
 		self.CodeEmission = CodeEmission
 		self.NomEmission = NomEmission
-		self.UrlEmission = UrlEmission
 
 	def __GetDate(self,i):
 		L = ['TITRE','SOUS_TITRE']
@@ -88,11 +95,11 @@ class Canal :
 		for episode_emission in ListID :
 			log_emission = episode_emission[1]+"|"+episode_emission[3]
 			if not self.__checkHistory(log_emission) :
-				if self.__youtubeDl(self.UrlEmission,episode_emission[0]) == 0 :
+				if self.__youtubeDl(self.__urlVideo,episode_emission[0]) == 0 :
 					self.__addHistory(log_emission)
 
 
 
 for emission in emissions:
-	MyVideo = Canal(CodeEmission=emission[0],NomEmission=emission[1],UrlEmission=emission[2])
+	MyVideo = Canal(CodeEmission=emission[0],NomEmission=emission[1])
 	MyVideo.download()
