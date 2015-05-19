@@ -22,7 +22,7 @@ Télécharger ce zip
 
 https://github.com/WassimAttar/canal-quotidienne/archive/master.zip
 
-Décompresser le.
+Le Décompresser.
 
 Copier canal-quotidienne.py ou vous voulez.
 
