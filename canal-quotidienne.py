@@ -127,7 +127,9 @@ class Canal :
 		file = open(historique, 'r')
 		for line in file:
 			if log_emission+'\n' == line:
+				file.close()
 				return True
+		file.close()
 		return False
 
 	# L'historique des téléchargements est sous la forme
