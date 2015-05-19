@@ -5,9 +5,9 @@ import os, re, time, subprocess
 from xml.dom import minidom
 
 try:
-    import urllib.request as compat_urllib_request
+	import urllib.request as compat_urllib_request
 except ImportError:  # Python 2
-    import urllib2 as compat_urllib_request
+	import urllib2 as compat_urllib_request
 
 
 emissions=[
@@ -50,11 +50,11 @@ emissions=[
 
 homedir = os.path.expanduser('~')
 
-# Dossier ou les vidéos seront sauvegardées
+# Dossier ou les vidéos sont sauvegardées
 outputdir = homedir + "/Téléchargements/"
 
 # Fichier de l'historique des vidéos déjà téléchargées
-historique = outputdir + ".cplus_hist"
+historique = outputdir + ".cplus_historique"
 
 class Canal :
 
@@ -79,7 +79,7 @@ class Canal :
 
 	def __checkYoutubeDlInstallation(self):
 		try:
-				subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+			subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 		except OSError as e:
 			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
 			exit()
