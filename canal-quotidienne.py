@@ -83,7 +83,7 @@ class Canal :
 
 	def __checkHistoryFile(self):
 		if not os.path.isfile(historique) :
-			file open(historique, 'w+')
+			file = open(historique, 'w+')
 			file.close()
 
 	# Les dates fournies par canal ne sont pas toujours bien formatées.
