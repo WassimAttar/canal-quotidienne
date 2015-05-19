@@ -140,7 +140,7 @@ class Canal :
 	# Zapping|18/05/15
 	def __addHistory(self,log_emission):
 		file = open(historique, 'a')
-		file.write(log_emission.encode('utf-8') + '\n')
+		file.write(log_emission + '\n')
 		file.close()
 
 	# youtube-dl se charge de télécharger la vidéo.
