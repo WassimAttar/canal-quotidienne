@@ -7,7 +7,37 @@ from xml.dom import minidom
 
 emissions=[
 [48,"Guignols"],
-[201,"Zapping"]
+[201,"Zapping"],
+
+# [130,	"Action discrete"],
+# [304,	"Action discrete"],
+# [371,	"Action discrete"],
+# [62,	"Le boucan du jour"],
+# [627,	"Bref"],
+# [104,	"Le grand journal"],
+# [254,	"Groland"],
+# [242,	"Du hard ou du cochon"],
+# [451,	"Jamel comedy club"],
+# [896,	"Le journal du hard"],
+# [39,	"La matinale"],
+# [215,	"Le meilleur du hier"],
+# [47,	"Les pépites du net"],
+# [249,	"Petit journal [le)"],
+# [843,	"La question de plus"])
+# [294,	"La revue de presse de Catherine et Eliane"],
+# [1082,"Salut les terriens"],
+# [41,	"Salut les terriens"],
+# [74,	"Salut les terriens"],
+# [105,	"Salut les terriens"],
+# [110,	"Salut les terriens"],
+# [316,	"Salut les terriens"],
+# [371,	"Salut les terriens"],
+# [680,	"Salut les terriens - edito de Blako"],
+# [1064,"Salut les terriens - Gaspard Proust"],
+# [1072,"Salut les terriens - les martiens de la semaine"],
+# [252,	"SAV des émissions"],
+# [936,	"Tweet en clair"],
+
 ]
 
 homedir = os.path.expanduser('~')
