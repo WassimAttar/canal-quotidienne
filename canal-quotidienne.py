@@ -70,6 +70,7 @@ class Canal :
 
 	def __init__(self,emission):
 		self.__checkYoutubeDlInstallation()
+		self.__checkHistoryFile()
 		self.__codeEmission = emission[0]
 		self.__nomEmission = emission[1]
 
@@ -79,6 +80,11 @@ class Canal :
 		except OSError as e:
 			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
 			exit()
+
+	def __checkHistoryFile(self):
+		if not os.path.isfile(historique) :
+			file open(historique, 'w+')
+			file.close()
 
 	# Les dates fournies par canal ne sont pas toujours bien formatées.
 	# Parfois c'est 02/05/2015 ou 02/05/15 ou 02/05
