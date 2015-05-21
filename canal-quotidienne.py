@@ -71,11 +71,9 @@ class Canal :
 	__codeEmission = ""
 	__nomEmission = ""
 
-	def __init__(self,emission):
+	def __init__(self):
 		self.__checkYoutubeDlInstallation()
 		self.__checkHistoryFile()
-		self.__codeEmission = emission[0]
-		self.__nomEmission = emission[1]
 
 	def __checkYoutubeDlInstallation(self):
 		try:
@@ -157,7 +155,9 @@ class Canal :
 	def __geturlXmlMea(self,code):
 		return self.__urlXmlMea % code
 
-	def download(self):
+	def download(self,emission):
+		self.__codeEmission = emission[0]
+		self.__nomEmission = emission[1]
 		urlXmlMea = self.__geturlXmlMea(self.__codeEmission)
 		xmlMea = self.__downloadXml(urlXmlMea)
 		listID = self.__parseXmlMea(xmlMea)
@@ -170,5 +170,5 @@ class Canal :
 
 
 for emission in emissions:
-	myVideo = Canal(emission)
-	myVideo.download()
+	myVideo = Canal()
+	myVideo.download(emission)
