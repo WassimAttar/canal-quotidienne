@@ -79,7 +79,7 @@ class Canal :
 		try:
 			subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 		except:
-			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
+			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod 755 /usr/bin/youtube-dl")
 			exit()
 
 	def __checkHistoryFile(self):
