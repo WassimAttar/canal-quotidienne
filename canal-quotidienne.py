@@ -6,7 +6,7 @@ from xml.dom import minidom
 
 try:
 	import urllib.request as compat_urllib_request
-except ImportError:  # Python 2
+except:  # Python 2
 	import urllib2 as compat_urllib_request
 
 
@@ -78,7 +78,7 @@ class Canal :
 	def __checkYoutubeDlInstallation(self):
 		try:
 			subprocess.call(["youtube-dl","--version"],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-		except OSError as e:
+		except:
 			print("youtube-dl non installé. Pour installer la dernière version, taper cette commande :\nsudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl && sudo chmod a+x /usr/bin/youtube-dl")
 			exit()
 
@@ -122,7 +122,7 @@ class Canal :
 	def __downloadXml(self,url):
 		try:
 			xmlFile = compat_urllib_request.urlopen(url).read()
-		except Exception :
+		except:
 			print("Problème de téléchargement, réessayez plus tard")
 			exit()
 		xmldoc = minidom.parseString(xmlFile)
