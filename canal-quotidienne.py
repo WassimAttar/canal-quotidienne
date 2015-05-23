@@ -58,14 +58,14 @@ historique = outputdir + ".cplus_historique"
 class Canal :
 
 	# URL de toutes les vidéos d'une émission donnée.
-	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/%s'
+	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/{}'
 
 	# L'URL pour télécharger une vidéo peut être quelconque.
 	# Ce qui importe est le numéro envoyé à la variable vid.
 	# Nous pouvons donc envoyer un numéro vid du Zapping avec une URL des Guignols.
 	# Par défaut, l'URL choisie est celle des Guignols mais on peut utiliser l'URL du Zapping.
 	# http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html
-	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid=%s'
+	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid={}'
 
 	__codeEmission = ""
 	__nomEmission = ""
@@ -147,12 +147,12 @@ class Canal :
 	# youtube-dl se charge de télécharger la vidéo.
 	# La qualité est toujours à best
 	def __youtubeDl(self,url,episode_emission):
-		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url % str(episode_emission)]
+		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url.format(episode_emission)]
 		p = subprocess.Popen(cmd_args)
 		return p.wait()
 
 	def __geturlXmlMea(self,code):
-		return self.__urlXmlMea % code
+		return self.__urlXmlMea.format(code)
 
 	def download(self,emission):
 		self.__codeEmission = emission[0]
