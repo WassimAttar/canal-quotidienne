@@ -19,7 +19,7 @@ Pour installer la dernière version de youtube-dl :
     sudo chmod 755 /usr/bin/youtube-dl
 
 # INSTALLATION
-Télécharger et sauvegarder ce fichier sur votre pc
+Télécharger le fichier sur votre pc
 
     wget https://raw.github.com/WassimAttar/canal-quotidienne/master/canal-quotidienne.py
 
