@@ -1,8 +1,7 @@
 #!/usr/bin/python
 #coding: utf-8
 
-import os, re, time, subprocess
-from xml.dom import minidom
+import os, re, time, subprocess, xml.dom.minidom
 
 try:
 	import urllib.request as compat_urllib_request
@@ -125,7 +124,7 @@ class Canal :
 		except:
 			print("Problème de téléchargement, réessayez plus tard")
 			exit()
-		xmldoc = minidom.parseString(xmlFile)
+		xmldoc = xml.dom.minidom.parseString(xmlFile)
 		return xmldoc
 
 	def __checkHistory(self,log_emission):
