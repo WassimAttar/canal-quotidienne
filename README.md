@@ -2,6 +2,7 @@ Télécharger automatiquement les émissions quotidiennes de canal.
 
 - [DESCRIPTION](#description)
 - [INSTALLATION](#installation)
+- [RÉSOLUTION DE PROBLÈME](#resolution-de-probleme)
 
 # DESCRIPTION
 **canal-quotidienne** est un petit script qui permet de télécharger automatiquement les émissions quotidiennes de canal plus.
@@ -15,7 +16,7 @@ Le script fait appel à youtube-dl qui doit être préalablement installé.
 Pour installer la dernière version de youtube-dl :
 
     sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/bin/youtube-dl
-    sudo chmod a+x /usr/bin/youtube-dl
+    sudo chmod 755 /usr/bin/youtube-dl
 
 # INSTALLATION
 Télécharger et sauvegarder ce fichier sur votre pc
@@ -29,3 +30,8 @@ Le lancer en ligne de commande :
     python canal-quotidienne.py
 
 Le téléchargement des émissions commence
+
+# RÉSOLUTION DE PROBLÈME
+En cas de problème de téléchargement, télécharger la dernière version de youtube-dl
+
+    sudo youtube-dl -U
