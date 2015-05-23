@@ -21,7 +21,7 @@ Pour installer la dernière version de youtube-dl :
 # INSTALLATION
 Télécharger et sauvegarder ce fichier sur votre pc
 
-https://raw.github.com/WassimAttar/canal-quotidienne/master/canal-quotidienne.py
+    wget https://raw.github.com/WassimAttar/canal-quotidienne/master/canal-quotidienne.py
 
 L'éditer pour choisir les émissions à télécharger.
 
