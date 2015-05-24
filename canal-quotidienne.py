@@ -166,7 +166,8 @@ class Canal :
 					self.__addHistory(log_emission)
 
 
+if __name__ == "__main__":
 
-for emission in emissions:
-	myVideo = Canal()
-	myVideo.download(emission)
+	for emission in emissions:
+		myVideo = Canal()
+		myVideo.download(emission)
