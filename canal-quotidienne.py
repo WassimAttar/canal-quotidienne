@@ -9,7 +9,7 @@ except:  # Python 2
 	import urllib2 as compat_urllib_request
 
 
-emissions=[
+playlists=[
 [48,"Guignols"],
 [201,"Zapping"],
 
@@ -70,8 +70,8 @@ class Canal :
 	def __init__(self):
 		self.__checkYoutubeDlInstallation()
 		self.__checkHistoryFile()
-		self.__codeEmission = ""
-		self.__nomEmission = ""
+		self.__codePlaylist = ""
+		self.__nomPlaylist = ""
 
 	def __checkYoutubeDlInstallation(self):
 		try:
@@ -114,7 +114,7 @@ class Canal :
 				id = i.getElementsByTagName('ID')[0].childNodes[0].nodeValue
 				titre = i.getElementsByTagName('TITRE')[0].childNodes[0].nodeValue
 				if 'semaine' not in titre.lower():
-					ids.append([id,self.__nomEmission,titre,self.__getDate(i)])
+					ids.append([id,self.__nomPlaylist,titre,self.__getDate(i)])
 		return ids
 
 	def __downloadXml(self,url):
@@ -126,10 +126,10 @@ class Canal :
 		xmldoc = xml.dom.minidom.parseString(xmlFile)
 		return xmldoc
 
-	def __checkHistory(self,log_emission):
+	def __checkHistory(self,logPlaylist):
 		file = open(historique, 'r')
 		for line in file:
-			if log_emission+'\n' == line:
+			if logPlaylist+'\n' == line:
 				file.close()
 				return True
 		file.close()
@@ -138,36 +138,36 @@ class Canal :
 	# L'historique des téléchargements est sous la forme
 	# Guignols|18/05/15
 	# Zapping|18/05/15
-	def __addHistory(self,log_emission):
+	def __addHistory(self,logPlaylist):
 		file = open(historique, 'a')
-		file.write(log_emission + '\n')
+		file.write(logPlaylist + '\n')
 		file.close()
 
 	# youtube-dl se charge de télécharger la vidéo.
 	# La qualité est toujours à best
-	def __youtubeDl(self,url,episode_emission):
-		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url.format(episode_emission)]
+	def __youtubeDl(self,url,emission):
+		cmd_args = ['youtube-dl','-f','best', "-o", outputdir+"%(title)s.%(ext)s", url.format(emission)]
 		p = subprocess.Popen(cmd_args)
 		return p.wait()
 
 	def __geturlXmlMea(self,code):
 		return Canal.__urlXmlMea.format(code)
 
-	def download(self,emission):
-		self.__codeEmission = emission[0]
-		self.__nomEmission = emission[1]
-		urlXmlMea = self.__geturlXmlMea(self.__codeEmission)
+	def download(self,playlist):
+		self.__codePlaylist = playlist[0]
+		self.__nomPlaylist = playlist[1]
+		urlXmlMea = self.__geturlXmlMea(self.__codePlaylist)
 		xmlMea = self.__downloadXml(urlXmlMea)
-		listID = self.__parseXmlMea(xmlMea)
-		for episode_emission in listID :
-			log_emission = episode_emission[1]+"|"+episode_emission[3]
-			if not self.__checkHistory(log_emission) :
-				if self.__youtubeDl(Canal.__urlVideo,episode_emission[0]) == 0 :
-					self.__addHistory(log_emission)
+		playlist = self.__parseXmlMea(xmlMea)
+		for emission in playlist :
+			logPlaylist = emission[1]+"|"+emission[3]
+			if not self.__checkHistory(logPlaylist) :
+				if self.__youtubeDl(Canal.__urlVideo,emission[0]) == 0 :
+					self.__addHistory(logPlaylist)
 
 
 if __name__ == "__main__":
 
-	for emission in emissions:
+	for playlist in playlists:
 		myVideo = Canal()
-		myVideo.download(emission)
+		myVideo.download(playlist)
