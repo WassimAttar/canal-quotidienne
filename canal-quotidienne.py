@@ -67,12 +67,11 @@ class Canal :
 	# http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html
 	__urlVideo = 'http://www.canalplus.fr/c-divertissement/pid1784-c-les-guignols.html?vid={}'
 
-	__codeEmission = ""
-	__nomEmission = ""
-
 	def __init__(self):
 		self.__checkYoutubeDlInstallation()
 		self.__checkHistoryFile()
+		self.__codeEmission = ""
+		self.__nomEmission = ""
 
 	def __checkYoutubeDlInstallation(self):
 		try:
@@ -152,7 +151,7 @@ class Canal :
 		return p.wait()
 
 	def __geturlXmlMea(self,code):
-		return self.__urlXmlMea.format(code)
+		return Canal.__urlXmlMea.format(code)
 
 	def download(self,emission):
 		self.__codeEmission = emission[0]
@@ -163,7 +162,7 @@ class Canal :
 		for episode_emission in listID :
 			log_emission = episode_emission[1]+"|"+episode_emission[3]
 			if not self.__checkHistory(log_emission) :
-				if self.__youtubeDl(self.__urlVideo,episode_emission[0]) == 0 :
+				if self.__youtubeDl(Canal.__urlVideo,episode_emission[0]) == 0 :
 					self.__addHistory(log_emission)
 
 
