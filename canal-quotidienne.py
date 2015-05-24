@@ -106,7 +106,7 @@ class Canal :
 				return re.findall(grep_date_mois, valeur)[0]+"/"+time.strftime("%y")
 		return ""
 
-	def __parseXmlMea(self,xmldoc):
+	def __parseXml(self,xmldoc):
 		ids = []
 		meas = xmldoc.getElementsByTagName('MEA')
 		for i in meas:
@@ -123,8 +123,10 @@ class Canal :
 		except:
 			print("Problème de téléchargement, réessayez plus tard")
 			exit()
-		xmldoc = xml.dom.minidom.parseString(xmlFile)
-		return xmldoc
+		return xmlFile
+
+	def __parseXmlMea(self,xmlFile) :
+		return xml.dom.minidom.parseString(xmlFile)
 
 	def __checkHistory(self,logPlaylist):
 		file = open(historique, 'r')
@@ -158,7 +160,8 @@ class Canal :
 		self.__nomPlaylist = playlist[1]
 		urlXmlMea = self.__geturlXmlMea(self.__codePlaylist)
 		xmlMea = self.__downloadXml(urlXmlMea)
-		playlist = self.__parseXmlMea(xmlMea)
+		playlistXml = self.__parseXmlMea(xmlMea)
+		playlist = self.__parseXml(playlistXml)
 		for emission in playlist :
 			logPlaylist = emission[1]+"|"+emission[3]
 			if not self.__checkHistory(logPlaylist) :
