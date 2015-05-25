@@ -152,8 +152,8 @@ class Canal :
 		p = subprocess.Popen(cmd_args)
 		return p.wait()
 
-	def __geturlXmlMea(self,code):
-		return Canal.__urlXmlMea.format(code)
+	def __geturlXmlMea(self,codePlaylist):
+		return Canal.__urlXmlMea.format(codePlaylist)
 
 	def download(self,playlist):
 		self.__codePlaylist = playlist[0]
