@@ -4,7 +4,7 @@ import os, re, time, subprocess, xml.dom.minidom, operator
 
 try:
 	import urllib.request as compat_urllib_request
-except:  # Python 2
+except ImportError:  # Python 2
 	import urllib2 as compat_urllib_request
 
 homedir = os.path.expanduser('~')
@@ -50,7 +50,7 @@ class CanalScan :
 	def __downloadXml(self,url):
 		try:
 			xmlFile = compat_urllib_request.urlopen(url).read()
-		except:
+		except urllib.URLError:
 			print("Problème de téléchargement, réessayez plus tard")
 			exit()
 		return xmlFile
@@ -83,7 +83,7 @@ class CanalScan :
 			return False
 
 	def downloadPlaylists(self):
-		for codePlaylist in list(range(0,3900)) :
+		for codePlaylist in list(range(0,4000)) :
 			print("playlist "+str(codePlaylist))
 			urlXmlMea = self.__geturlXmlMea(codePlaylist)
 			xmlMea = self.__downloadXml(urlXmlMea)
@@ -93,7 +93,7 @@ class CanalScan :
 				self.__savePlaylist(xmlMea,codePlaylist)
 
 	def scanPlaylists(self):
-		for codePlaylist in list(range(0,3900)) :
+		for codePlaylist in list(range(0,4000)) :
 			pathPlaylist = playlistdir+str(codePlaylist)+".xml"
 			xmlMea = self.__openPlaylist(pathPlaylist)
 			if xmlMea != False :
