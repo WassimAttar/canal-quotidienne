@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import os, re, time, subprocess, xml.dom.minidom, operator
+import os, re, time, subprocess, xml.dom.minidom, operator, socket
 
 try:
 	import urllib.request as compat_urllib_request
@@ -48,12 +48,21 @@ class CanalScan :
 		return sorted(liste, key  = lambda x: (-x[1], x[0]))
 
 	def __downloadXml(self,url):
-		try:
-			xmlFile = compat_urllib_request.urlopen(url).read()
-		except urllib.URLError:
-			print("Problème de téléchargement, réessayez plus tard")
-			exit()
+		downloadTries = 0
+		xmlFile = None
+		while xmlFile is None :
+			try:
+				xmlFile = compat_urllib_request.urlopen(url,timeout = 3).read()
+			except (compat_urllib_request.URLError, socket.timeout) as err:
+				if downloadTries > 3:
+					print("Problème de téléchargement, réessayez plus tard")
+					exit()
+				else:
+					downloadTries += 1
+					print("Essai n°"+str(downloadTries))
+					time.sleep(3)
 		return xmlFile
+
 
 	def __parseXmlMea(self,xmlFile) :
 		return xml.dom.minidom.parseString(xmlFile)
