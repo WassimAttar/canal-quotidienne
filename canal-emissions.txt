@@ -32,7 +32,7 @@ id 2203 : 14 fois
 
 
 ACTION_DISCRETE
-id 304 : 6 fois
+id 304 : 5 fois
 
 
 ADIEU DE GAULLE ADIEU
@@ -657,7 +657,7 @@ id 279 : 20 fois
 id 383 : 20 fois
 id 421 : 20 fois
 id 1419 : 20 fois
-id 244 : 18 fois
+id 244 : 19 fois
 id 594 : 17 fois
 id 162 : 16 fois
 id 611 : 14 fois
@@ -670,8 +670,8 @@ id 331 : 9 fois
 id 2529 : 8 fois
 id 1423 : 7 fois
 id 1944 : 7 fois
-id 3433 : 7 fois
 id 247 : 6 fois
+id 3433 : 6 fois
 id 248 : 5 fois
 id 610 : 3 fois
 id 223 : 2 fois
@@ -691,8 +691,8 @@ id 3465 : 28 fois
 id 3463 : 27 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
+id 3466 : 18 fois
 id 3464 : 14 fois
-id 3466 : 9 fois
 id 3422 : 6 fois
 
 
@@ -1061,8 +1061,8 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 692 fois
-id 2460 : 184 fois
+id 2327 : 691 fois
+id 2460 : 181 fois
 id 3128 : 142 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
@@ -1073,10 +1073,10 @@ id 632 : 51 fois
 id 2957 : 51 fois
 id 2417 : 50 fois
 id 3123 : 47 fois
-id 2419 : 41 fois
 id 2324 : 40 fois
+id 2419 : 40 fois
 id 3129 : 40 fois
-id 2418 : 36 fois
+id 2418 : 35 fois
 id 2958 : 29 fois
 id 3122 : 24 fois
 id 3126 : 22 fois
@@ -1090,7 +1090,7 @@ id 3415 : 10 fois
 id 3487 : 10 fois
 id 3124 : 9 fois
 id 3127 : 5 fois
-id 2212 : 3 fois
+id 2212 : 2 fois
 id 634 : 1 fois
 id 635 : 1 fois
 id 1839 : 1 fois
@@ -1138,7 +1138,7 @@ id 396 : 3 fois
 
 
 LES_GUIGNOLS
-id 222 : 233 fois
+id 222 : 234 fois
 id 672 : 54 fois
 id 684 : 51 fois
 id 48 : 16 fois
@@ -1192,14 +1192,14 @@ id 3336 : 70 fois
 id 3013 : 42 fois
 id 3016 : 35 fois
 id 3027 : 18 fois
-id 1903 : 11 fois
+id 1903 : 10 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
 id 3155 : 7 fois
 id 2166 : 5 fois
-id 1058 : 3 fois
-id 1899 : 3 fois
-id 1957 : 3 fois
+id 1058 : 2 fois
+id 1899 : 2 fois
+id 1957 : 2 fois
 id 2563 : 2 fois
 id 1904 : 1 fois
 id 2557 : 1 fois
@@ -1242,14 +1242,14 @@ id 302 : 24 fois
 id 630 : 24 fois
 id 108 : 20 fois
 id 233 : 20 fois
-id 2591 : 13 fois
 id 2963 : 13 fois
+id 2591 : 12 fois
 id 2724 : 12 fois
 id 3557 : 12 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
-id 2592 : 9 fois
 id 3556 : 9 fois
+id 2592 : 8 fois
 id 3039 : 8 fois
 id 2929 : 7 fois
 id 104 : 6 fois
@@ -1291,7 +1291,7 @@ id 2933 : 39 fois
 id 2961 : 28 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
-id 781 : 15 fois
+id 781 : 14 fois
 id 250 : 10 fois
 id 2006 : 10 fois
 id 1831 : 9 fois
@@ -1306,12 +1306,12 @@ id 2605 : 1 fois
 
 LE_SUPPLEMENT
 id 2116 : 50 fois
-id 1504 : 34 fois
+id 1504 : 35 fois
 id 1148 : 32 fois
-id 3049 : 31 fois
-id 1088 : 30 fois
+id 3049 : 32 fois
+id 1088 : 31 fois
 id 2113 : 30 fois
-id 3057 : 27 fois
+id 3057 : 28 fois
 id 2117 : 10 fois
 id 1069 : 2 fois
 id 2749 : 1 fois
@@ -2027,7 +2027,7 @@ id 2015 : 2 fois
 
 
 TUTOS
-id 1837 : 9 fois
+id 1837 : 8 fois
 
 
 TWEET_EN_CLAIR
