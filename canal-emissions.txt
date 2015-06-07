@@ -1,0 +1,2210 @@
+10MINUTESTOAMERICA
+id 3014 : 12 fois
+
+
+24_LIVE_ANOTHER_DAY
+id 2596 : 17 fois
+id 2656 : 11 fois
+id 2614 : 5 fois
+id 2655 : 5 fois
+
+
+30 ROCK
+id 358 : 20 fois
+
+
+30 ROCK SAISON 6
+id 1575 : 6 fois
+
+
+30ANS
+id 3178 : 31 fois
+id 3153 : 16 fois
+id 3172 : 7 fois
+id 3096 : 5 fois
+id 3125 : 4 fois
+id 3146 : 2 fois
+id 3165 : 2 fois
+
+
+30_ROCK_SAISON_7
+id 2203 : 14 fois
+
+
+ACTION_DISCRETE
+id 304 : 6 fois
+
+
+ADIEU DE GAULLE ADIEU
+id 81 : 4 fois
+
+
+AFTER CHINA
+id 849 : 3 fois
+
+
+AIR FUCK
+id 504 : 11 fois
+
+
+AIR GUITAR
+id 505 : 9 fois
+id 241 : 1 fois
+
+
+ALBUM_DE_LA_SEMAINE
+id 1089 : 294 fois
+id 336 : 41 fois
+id 339 : 21 fois
+id 32 : 15 fois
+id 337 : 8 fois
+id 3161 : 7 fois
+id 338 : 4 fois
+id 340 : 2 fois
+
+
+AMERICAN_CRIME
+id 3404 : 14 fois
+
+
+ANNEE_DU_WEB
+id 2756 : 29 fois
+id 2288 : 14 fois
+id 3236 : 12 fois
+id 2755 : 3 fois
+id 2266 : 2 fois
+id 3235 : 1 fois
+
+
+ARROW_S2
+id 2763 : 4 fois
+
+
+ARTS
+id 122 : 1 fois
+
+
+AUTRES_SPORTS
+id 1972 : 30 fois
+id 1619 : 27 fois
+id 3211 : 22 fois
+id 888 : 18 fois
+id 2145 : 17 fois
+id 3000 : 16 fois
+id 168 : 8 fois
+id 187 : 3 fois
+id 2144 : 3 fois
+id 1074 : 1 fois
+
+
+BA
+id 1578 : 100 fois
+id 1629 : 30 fois
+id 1643 : 30 fois
+id 1639 : 21 fois
+id 3328 : 19 fois
+id 1641 : 16 fois
+id 1633 : 15 fois
+id 1640 : 15 fois
+id 1580 : 13 fois
+id 1632 : 13 fois
+id 1642 : 11 fois
+id 1669 : 10 fois
+id 1670 : 10 fois
+id 3148 : 5 fois
+id 2020 : 4 fois
+id 1627 : 3 fois
+id 2802 : 3 fois
+id 1690 : 2 fois
+id 2977 : 2 fois
+id 1644 : 1 fois
+id 1689 : 1 fois
+id 2353 : 1 fois
+id 3029 : 1 fois
+id 3371 : 1 fois
+id 3378 : 1 fois
+
+
+BABIOLES
+id 1007 : 1 fois
+
+
+BAGEL_PHONE
+id 2664 : 1 fois
+
+
+BANSHEE_S1
+id 2772 : 14 fois
+id 2754 : 10 fois
+id 2786 : 10 fois
+
+
+BANSHEE_S2
+id 2901 : 17 fois
+id 2902 : 7 fois
+id 2903 : 1 fois
+
+
+BANSHEE_S3
+id 3293 : 13 fois
+id 3296 : 3 fois
+id 3299 : 3 fois
+id 3300 : 1 fois
+
+
+BASKET
+id 5 : 50 fois
+id 2921 : 50 fois
+id 265 : 20 fois
+id 266 : 20 fois
+id 315 : 15 fois
+id 588 : 15 fois
+id 181 : 9 fois
+id 3119 : 6 fois
+id 617 : 1 fois
+
+
+BA_ANTENNE
+id 3547 : 1 fois
+
+
+BA_A_L_ANTENNE
+id 290 : 20 fois
+id 3043 : 4 fois
+
+
+BELLICHER
+id 2877 : 3 fois
+
+
+BIG_BANG_THEORY_S7
+id 2726 : 19 fois
+id 2728 : 4 fois
+
+
+BIG_BANG_THEORY_S8
+id 3045 : 18 fois
+
+
+BIG_BANG_THEORY_SAISON_6
+id 1843 : 44 fois
+id 1867 : 24 fois
+id 1849 : 20 fois
+
+
+BLOG_USA_2008
+id 1127 : 5 fois
+
+
+BODY OF PROOF - SAISON 2
+id 941 : 17 fois
+
+
+BONUS
+id 3441 : 16 fois
+id 1471 : 8 fois
+
+
+BORGIA - SAISON 1
+id 596 : 27 fois
+id 626 : 11 fois
+
+
+BORGIA_SAISON_2
+id 2925 : 23 fois
+id 1332 : 12 fois
+id 1391 : 6 fois
+id 1389 : 2 fois
+
+
+BORGIA_SAISON_3
+id 2926 : 35 fois
+id 2927 : 13 fois
+id 3006 : 13 fois
+id 2928 : 7 fois
+id 3005 : 2 fois
+
+
+BOUCAN_CANNOIS
+id 890 : 1 fois
+
+
+BRAQUO - SAISON 1
+id 111 : 25 fois
+id 1093 : 11 fois
+id 579 : 7 fois
+id 1094 : 7 fois
+id 1138 : 7 fois
+id 1141 : 7 fois
+
+
+BRAQUO_SAISON_2
+id 2331 : 33 fois
+id 750 : 29 fois
+id 580 : 12 fois
+id 752 : 9 fois
+id 743 : 4 fois
+id 760 : 4 fois
+
+
+BRAQUO_SAISON_3
+id 2332 : 10 fois
+id 2328 : 7 fois
+id 2329 : 7 fois
+id 2342 : 2 fois
+id 2368 : 1 fois
+
+
+BREF
+id 627 : 15 fois
+id 3141 : 2 fois
+id 677 : 1 fois
+
+
+BROOKLYN_99
+id 1832 : 32 fois
+
+
+BROOKLYN_99_S2
+id 3050 : 20 fois
+
+
+BROTHERHOOD
+id 2551 : 3 fois
+
+
+CAFE_MAGNUM
+id 1530 : 9 fois
+
+
+CAMELOT
+id 798 : 16 fois
+id 795 : 9 fois
+id 797 : 6 fois
+id 777 : 1 fois
+
+
+CAMPAGNE_MEDIA
+id 2622 : 2 fois
+
+
+CANALBIS
+id 3559 : 15 fois
+
+
+CANNES EXPRESS
+id 561 : 17 fois
+
+
+CANNES VU PAR
+id 895 : 4 fois
+
+
+CANNES_YOU_TWEET_IT
+id 911 : 4 fois
+
+
+CARLOS
+id 194 : 13 fois
+
+
+CARTOONPLUS
+id 608 : 1 fois
+
+
+CASE SENSITIVE
+id 1707 : 2 fois
+
+
+CASTING
+id 1844 : 5 fois
+id 2665 : 3 fois
+
+
+CASTINGS
+id 2669 : 9 fois
+
+
+CEREMONIES
+id 230 : 40 fois
+id 1594 : 8 fois
+id 3545 : 5 fois
+id 3580 : 5 fois
+
+
+CESAR
+id 475 : 435 fois
+id 2345 : 87 fois
+id 1306 : 65 fois
+id 1312 : 51 fois
+id 3331 : 51 fois
+id 3334 : 50 fois
+id 3384 : 48 fois
+id 143 : 47 fois
+id 1307 : 46 fois
+id 1308 : 38 fois
+id 1300 : 25 fois
+id 3340 : 23 fois
+id 3332 : 22 fois
+id 1310 : 17 fois
+id 1304 : 16 fois
+id 1343 : 13 fois
+id 1305 : 12 fois
+id 1311 : 12 fois
+id 2413 : 12 fois
+id 499 : 10 fois
+id 1302 : 10 fois
+id 3341 : 10 fois
+id 3349 : 10 fois
+id 1309 : 6 fois
+id 2414 : 6 fois
+id 3342 : 5 fois
+id 1303 : 2 fois
+
+
+CHARLIE'S ANGELS - SAISON 1
+id 1154 : 9 fois
+
+
+CHASSE
+id 1550 : 133 fois
+id 1561 : 133 fois
+id 1546 : 100 fois
+id 1565 : 40 fois
+
+
+CINEMA_EN_SALLES
+id 2159 : 34 fois
+id 2364 : 30 fois
+id 1653 : 13 fois
+id 407 : 12 fois
+id 550 : 9 fois
+id 2046 : 9 fois
+id 3274 : 7 fois
+id 174 : 5 fois
+id 538 : 5 fois
+
+
+CINEPLUS
+id 1112 : 50 fois
+id 1116 : 50 fois
+id 1115 : 21 fois
+id 3592 : 11 fois
+
+
+CLIQUE
+id 1909 : 12 fois
+id 2000 : 8 fois
+id 1910 : 5 fois
+id 2562 : 3 fois
+id 1993 : 1 fois
+
+
+COLD CASE - SAISON 7
+id 450 : 20 fois
+
+
+CONCERTS_PRIVES
+id 815 : 2 fois
+
+
+CONCOURS_VIDEO
+id 2696 : 20 fois
+id 3394 : 3 fois
+
+
+CONFERENCE_DE_PRESSE
+id 1602 : 6 fois
+
+
+CONNASSE
+id 2311 : 14 fois
+id 228 : 4 fois
+
+
+CONVERSATION_SECRETE
+id 3144 : 8 fois
+id 3202 : 8 fois
+id 3375 : 4 fois
+id 3376 : 4 fois
+id 3503 : 4 fois
+id 3504 : 4 fois
+
+
+COULISSES_DE_TOURNAGE
+id 1178 : 50 fois
+
+
+CREA+
+id 513 : 21 fois
+id 76 : 20 fois
+id 523 : 20 fois
+id 532 : 9 fois
+id 526 : 1 fois
+id 527 : 1 fois
+
+
+CREATION_ORIGINALE
+id 3364 : 1 fois
+
+
+CRIMINAL JUSTICE
+id 427 : 4 fois
+
+
+CSMUSIQUE
+id 119 : 100 fois
+id 306 : 7 fois
+
+
+CULTE_A_CANNES
+id 2666 : 4 fois
+
+
+DAMAGES
+id 805 : 22 fois
+id 99 : 19 fois
+
+
+DAMAGES - SAISON 3
+id 443 : 20 fois
+
+
+DAMAGES SAISON 5
+id 1720 : 9 fois
+
+
+DANCE ACADEMY
+id 444 : 20 fois
+
+
+DESPERATE HOUSEWIVES - SAISON 8
+id 565 : 50 fois
+id 874 : 48 fois
+id 873 : 12 fois
+id 875 : 7 fois
+
+
+DETROIT 1-8-7
+id 454 : 19 fois
+id 619 : 4 fois
+
+
+DEXTER- SAISON 6
+id 543 : 31 fois
+id 834 : 13 fois
+id 835 : 11 fois
+id 437 : 7 fois
+
+
+DEXTER_SAISON_7
+id 1321 : 30 fois
+id 1352 : 11 fois
+id 1387 : 11 fois
+id 1322 : 8 fois
+
+
+DEXTER_SAISON_8
+id 2119 : 24 fois
+id 2010 : 12 fois
+id 1883 : 7 fois
+id 2118 : 4 fois
+
+
+DOCUMENTAIRES_DIVERS
+id 318 : 2 fois
+id 3216 : 1 fois
+
+
+DU_HARD_OU_DU_COCHON
+id 242 : 6 fois
+id 243 : 5 fois
+
+
+EMISSION
+id 1049 : 110 fois
+id 896 : 104 fois
+id 1880 : 60 fois
+id 1693 : 50 fois
+id 1048 : 48 fois
+id 1046 : 41 fois
+id 381 : 30 fois
+id 2346 : 27 fois
+id 11 : 20 fois
+id 313 : 20 fois
+id 1047 : 17 fois
+id 962 : 13 fois
+id 691 : 12 fois
+id 964 : 12 fois
+id 449 : 10 fois
+id 2742 : 10 fois
+id 343 : 9 fois
+id 1051 : 9 fois
+id 1314 : 7 fois
+id 52 : 6 fois
+id 1043 : 5 fois
+id 2751 : 4 fois
+id 3185 : 4 fois
+id 542 : 3 fois
+id 933 : 3 fois
+id 3329 : 3 fois
+id 277 : 2 fois
+id 808 : 2 fois
+id 809 : 2 fois
+id 1192 : 2 fois
+id 145 : 1 fois
+id 1050 : 1 fois
+id 2376 : 1 fois
+id 2744 : 1 fois
+
+
+EMISSIONS_EVENEMENTIELLES
+id 44 : 20 fois
+id 2748 : 14 fois
+id 3168 : 5 fois
+
+
+ENGRENAGES - SAISON 3
+id 150 : 41 fois
+
+
+ENGRENAGES - SAISON 4
+id 972 : 18 fois
+id 1028 : 12 fois
+id 979 : 10 fois
+id 1068 : 9 fois
+id 980 : 8 fois
+id 1008 : 2 fois
+
+
+ENGRENAGES_S5
+id 2682 : 24 fois
+id 3186 : 12 fois
+id 2683 : 10 fois
+
+
+ENLIGHTENED
+id 2584 : 2 fois
+
+
+ETE_DU_WEB
+id 2758 : 17 fois
+id 2757 : 1 fois
+
+
+EVENEMENT
+id 2257 : 5 fois
+id 736 : 3 fois
+id 1748 : 2 fois
+id 3508 : 1 fois
+
+
+FACE_AU_FILM
+id 3028 : 50 fois
+id 1114 : 30 fois
+id 1650 : 30 fois
+id 1637 : 20 fois
+
+
+FACE_A_INVITE
+id 1664 : 30 fois
+id 2457 : 25 fois
+id 1705 : 3 fois
+
+
+FILM
+id 2201 : 3 fois
+id 2202 : 3 fois
+
+
+FLASHFORWARD
+id 269 : 20 fois
+
+
+FLASHPOINT - SAISON 1
+id 585 : 3 fois
+
+
+FLASHPOINT - SAISON 2
+id 586 : 15 fois
+
+
+FOOTBALL
+id 1854 : 200 fois
+id 3055 : 153 fois
+id 370 : 100 fois
+id 195 : 50 fois
+id 1021 : 50 fois
+id 2147 : 50 fois
+id 2972 : 50 fois
+id 2984 : 50 fois
+id 841 : 40 fois
+id 246 : 39 fois
+id 2121 : 39 fois
+id 2252 : 39 fois
+id 384 : 38 fois
+id 2740 : 33 fois
+id 3 : 30 fois
+id 1795 : 30 fois
+id 156 : 22 fois
+id 428 : 22 fois
+id 158 : 20 fois
+id 159 : 20 fois
+id 160 : 20 fois
+id 171 : 20 fois
+id 258 : 20 fois
+id 279 : 20 fois
+id 383 : 20 fois
+id 421 : 20 fois
+id 1419 : 20 fois
+id 244 : 18 fois
+id 594 : 17 fois
+id 162 : 16 fois
+id 611 : 14 fois
+id 1196 : 13 fois
+id 146 : 10 fois
+id 385 : 10 fois
+id 386 : 10 fois
+id 1152 : 10 fois
+id 331 : 9 fois
+id 2529 : 8 fois
+id 1423 : 7 fois
+id 1944 : 7 fois
+id 3433 : 7 fois
+id 247 : 6 fois
+id 248 : 5 fois
+id 610 : 3 fois
+id 223 : 2 fois
+id 484 : 2 fois
+id 1087 : 2 fois
+id 267 : 1 fois
+
+
+FORMULE_1
+id 3056 : 100 fois
+id 3485 : 34 fois
+id 1369 : 33 fois
+id 2678 : 33 fois
+id 1407 : 30 fois
+id 1408 : 30 fois
+id 3465 : 28 fois
+id 3463 : 27 fois
+id 3412 : 20 fois
+id 3416 : 20 fois
+id 3464 : 14 fois
+id 3466 : 9 fois
+id 3422 : 6 fois
+
+
+FRISSON_BREAK
+id 373 : 50 fois
+id 1706 : 42 fois
+
+
+GAME OF THRONES
+id 1209 : 13 fois
+id 1210 : 10 fois
+id 1208 : 3 fois
+
+
+GAME_OF_THRONES_SAISON_2
+id 2227 : 22 fois
+id 2255 : 10 fois
+id 2287 : 6 fois
+id 2228 : 5 fois
+
+
+GIRLS_S1
+id 2560 : 10 fois
+id 2525 : 3 fois
+
+
+GLOBAL_PARTAGE
+id 2611 : 2 fois
+
+
+GLUE
+id 3488 : 4 fois
+id 3537 : 3 fois
+id 3534 : 1 fois
+
+
+GNARKS
+id 746 : 1 fois
+
+
+GOLF
+id 164 : 20 fois
+id 165 : 20 fois
+id 169 : 20 fois
+id 3149 : 20 fois
+id 583 : 8 fois
+id 179 : 5 fois
+id 182 : 2 fois
+
+
+GOMORRA_S1
+id 3208 : 18 fois
+
+
+GROLAND
+id 1147 : 9 fois
+id 1151 : 9 fois
+
+
+GROLAND_EMISSIONS
+id 757 : 12 fois
+
+
+GROLAND_PERSONNALITES
+id 758 : 26 fois
+
+
+GROLAND_THEMATIQUES
+id 759 : 100 fois
+id 1326 : 6 fois
+
+
+HABILLE_POUR
+id 148 : 11 fois
+id 3507 : 1 fois
+
+
+HANDBALL
+id 167 : 17 fois
+id 2309 : 16 fois
+id 640 : 1 fois
+
+
+HANNIBAL_SAISON_1
+id 1791 : 38 fois
+id 1969 : 26 fois
+id 1968 : 9 fois
+id 1973 : 3 fois
+
+
+HANNIBAL_SAISON_2
+id 2455 : 14 fois
+id 2456 : 11 fois
+id 2920 : 6 fois
+
+
+HANNIBAL_SAISON_3
+id 3595 : 1 fois
+
+
+HAPPY TOWN
+id 457 : 17 fois
+
+
+HAPPY_HOUR
+id 1206 : 3 fois
+id 2295 : 3 fois
+id 3268 : 1 fois
+
+
+HARD
+id 570 : 18 fois
+
+
+HARD_SAISON_2
+id 573 : 38 fois
+
+
+HARD_SAISON_3
+id 3576 : 10 fois
+id 3597 : 5 fois
+id 3593 : 1 fois
+
+
+HATFIELDS AND MC COYS
+id 1743 : 6 fois
+
+
+HEARTLAND
+id 553 : 20 fois
+
+
+HEBDHOLLYWOOD_SERIES
+id 2366 : 40 fois
+id 2365 : 12 fois
+id 2787 : 1 fois
+
+
+HIT_AND_MISS
+id 1333 : 21 fois
+id 1335 : 6 fois
+id 1334 : 5 fois
+id 1336 : 5 fois
+id 1353 : 5 fois
+
+
+HOLLYWOOD_LIVE
+id 966 : 58 fois
+id 1750 : 31 fois
+id 1694 : 5 fois
+
+
+HOMELAND - SAISON 1
+id 973 : 42 fois
+id 1034 : 25 fois
+id 1033 : 11 fois
+id 1035 : 6 fois
+
+
+HOMELAND_SAISON_2
+id 1616 : 31 fois
+id 1715 : 13 fois
+id 1714 : 6 fois
+id 1674 : 3 fois
+id 1716 : 3 fois
+
+
+HOMELAND_SAISON_3
+id 2325 : 18 fois
+id 2323 : 12 fois
+id 2326 : 1 fois
+
+
+HOMELAND_SAISON_4
+id 3061 : 17 fois
+id 3035 : 9 fois
+
+
+HOSTAGES
+id 2459 : 11 fois
+id 2451 : 5 fois
+id 2524 : 3 fois
+
+
+HOUSE_OF_CARDS
+id 1769 : 61 fois
+id 1776 : 19 fois
+id 1768 : 16 fois
+id 1775 : 13 fois
+id 1947 : 13 fois
+id 2420 : 13 fois
+id 3010 : 5 fois
+
+
+HOUSE_OF_CARDS_S2
+id 2462 : 13 fois
+id 2464 : 12 fois
+id 2448 : 8 fois
+
+
+HOUSE_OF_LIES
+id 3093 : 3 fois
+
+
+IMPORTANTISSIME
+id 2946 : 21 fois
+
+
+INFILTRE
+id 498 : 6 fois
+
+
+INFOSPORT
+id 3486 : 14 fois
+
+
+INSIDE MEN
+id 1590 : 2 fois
+
+
+INSIDE_OUT
+id 3169 : 3 fois
+
+
+INTERIEUR_SPORT
+id 7 : 30 fois
+id 361 : 30 fois
+id 363 : 30 fois
+id 1817 : 28 fois
+id 1022 : 24 fois
+id 362 : 21 fois
+id 177 : 20 fois
+id 390 : 18 fois
+id 624 : 13 fois
+id 360 : 12 fois
+id 389 : 12 fois
+id 2997 : 12 fois
+id 388 : 8 fois
+id 468 : 8 fois
+id 2732 : 7 fois
+
+
+INTERVIEW
+id 1470 : 50 fois
+id 2670 : 30 fois
+id 859 : 17 fois
+id 1113 : 13 fois
+id 1591 : 13 fois
+
+
+JAMEL_COMEDY_CLUB
+id 2867 : 5 fois
+id 976 : 4 fois
+id 975 : 1 fois
+
+
+JDJV
+id 260 : 36 fois
+id 261 : 36 fois
+id 262 : 10 fois
+id 263 : 9 fois
+id 1998 : 3 fois
+
+
+JOURNAL_DES_JEUX_VIDEO_SPORT
+id 391 : 1 fois
+
+
+KABOUL_KITCHEN
+id 802 : 36 fois
+id 817 : 14 fois
+id 819 : 13 fois
+id 823 : 5 fois
+id 816 : 4 fois
+
+
+KABOUL_KITCHEN_SAISON_2
+id 2299 : 18 fois
+id 2289 : 2 fois
+
+
+KAIRA SHOPPING - L ETE DES KAIRAS
+id 668 : 1 fois
+
+
+KAIRA SHOPPING - SAISON 1
+id 70 : 3 fois
+
+
+KAIRA SHOPPING - SAISON 3
+id 670 : 11 fois
+
+
+KALI
+id 113 : 28 fois
+
+
+KINDIA
+id 3104 : 6 fois
+id 1345 : 3 fois
+id 1532 : 3 fois
+id 1137 : 2 fois
+id 1156 : 1 fois
+
+
+L'ECOLE DU POUVOIR
+id 69 : 5 fois
+
+
+L'EDITION SPECIALE
+id 326 : 1 fois
+
+
+LA FACTORIRE
+id 365 : 11 fois
+id 511 : 11 fois
+
+
+LA NUIT DES CONS
+id 65 : 20 fois
+id 507 : 20 fois
+
+
+LA PUB DE CANAL+
+id 506 : 9 fois
+
+
+LASCARS_SAISON_1
+id 926 : 20 fois
+id 2598 : 20 fois
+id 927 : 12 fois
+id 928 : 5 fois
+id 938 : 2 fois
+id 934 : 1 fois
+id 956 : 1 fois
+
+
+LASCARS_SAISON_2
+id 2616 : 11 fois
+id 2597 : 6 fois
+
+
+LAST RESORT
+id 1701 : 27 fois
+
+
+LA_BOITE_A_QUESTIONS
+id 502 : 32 fois
+id 812 : 10 fois
+id 904 : 4 fois
+
+
+LA_MATINALE
+id 663 : 4 fois
+id 1052 : 1 fois
+
+
+LA_MUSICALE
+id 452 : 10 fois
+id 1766 : 10 fois
+id 257 : 3 fois
+id 3425 : 3 fois
+id 1180 : 2 fois
+id 3583 : 2 fois
+id 3588 : 2 fois
+
+
+LA_NOUVELLE_EDITION
+id 2327 : 692 fois
+id 2460 : 184 fois
+id 3128 : 142 fois
+id 1449 : 111 fois
+id 2964 : 101 fois
+id 2965 : 101 fois
+id 2463 : 100 fois
+id 2543 : 100 fois
+id 632 : 51 fois
+id 2957 : 51 fois
+id 2417 : 50 fois
+id 3123 : 47 fois
+id 2419 : 41 fois
+id 2324 : 40 fois
+id 3129 : 40 fois
+id 2418 : 36 fois
+id 2958 : 29 fois
+id 3122 : 24 fois
+id 3126 : 22 fois
+id 3354 : 21 fois
+id 628 : 20 fois
+id 658 : 13 fois
+id 3150 : 12 fois
+id 687 : 10 fois
+id 3391 : 10 fois
+id 3415 : 10 fois
+id 3487 : 10 fois
+id 3124 : 9 fois
+id 3127 : 5 fois
+id 2212 : 3 fois
+id 634 : 1 fois
+id 635 : 1 fois
+id 1839 : 1 fois
+
+
+LA_SEMAINE_CINEMA
+id 1704 : 100 fois
+id 341 : 80 fois
+
+
+LBDL
+id 3402 : 25 fois
+id 3403 : 10 fois
+id 3536 : 10 fois
+
+
+LE GRAND JOURNAL 
+id 1399 : 1 fois
+
+
+LE MOIS DES AMOURS 
+id 508 : 19 fois
+
+
+LE PRISONNIER
+id 133 : 9 fois
+
+
+LE SERMENT
+id 524 : 14 fois
+
+
+LE VOL DES CIGOGNES
+id 1226 : 7 fois
+id 1227 : 7 fois
+
+
+LES PILIERS DE LA TERRE
+id 425 : 21 fois
+id 442 : 14 fois
+
+
+LES SIMPSON
+id 396 : 3 fois
+
+
+LES_GUIGNOLS
+id 222 : 233 fois
+id 672 : 54 fois
+id 684 : 51 fois
+id 48 : 16 fois
+id 3166 : 7 fois
+id 1126 : 6 fois
+id 1214 : 3 fois
+id 787 : 1 fois
+id 1222 : 1 fois
+
+
+LES_KASSOS
+id 2207 : 10 fois
+id 3373 : 8 fois
+id 2205 : 1 fois
+
+
+LES_NOUVEAUX_EXPLORATEURS
+id 1076 : 40 fois
+id 2485 : 9 fois
+
+
+LES_NOUVEAUX_LOUPS
+id 3502 : 3 fois
+
+
+LES_REQUINS_DE_LA_COLERE
+id 3423 : 7 fois
+
+
+LES_REVENANTS
+id 2942 : 12 fois
+
+
+LES_REVENANTS_SAISON_1
+id 3289 : 14 fois
+id 3290 : 10 fois
+id 3292 : 3 fois
+id 3291 : 1 fois
+
+
+LES_REVENANTS_SAISON_2
+id 3303 : 5 fois
+
+
+LE_BEFORE
+id 1980 : 500 fois
+id 1918 : 225 fois
+id 1902 : 101 fois
+id 1920 : 100 fois
+id 3336 : 70 fois
+id 3013 : 42 fois
+id 3016 : 35 fois
+id 3027 : 18 fois
+id 1903 : 11 fois
+id 2770 : 10 fois
+id 3021 : 10 fois
+id 3155 : 7 fois
+id 2166 : 5 fois
+id 1058 : 3 fois
+id 1899 : 3 fois
+id 1957 : 3 fois
+id 2563 : 2 fois
+id 1904 : 1 fois
+id 2557 : 1 fois
+id 3323 : 1 fois
+id 3484 : 1 fois
+
+
+LE_BOUCAN_DU_JOUR
+id 62 : 13 fois
+id 203 : 13 fois
+id 204 : 13 fois
+id 205 : 13 fois
+id 2023 : 13 fois
+
+
+LE_CERCLE
+id 232 : 10 fois
+
+
+LE_DEBARQUEMENT
+id 2271 : 3 fois
+id 1294 : 1 fois
+
+
+LE_GRAND_JOURNAL
+id 237 : 150 fois
+id 2930 : 122 fois
+id 224 : 110 fois
+id 2931 : 87 fois
+id 2935 : 62 fois
+id 1453 : 53 fois
+id 2599 : 50 fois
+id 3195 : 50 fois
+id 2947 : 34 fois
+id 2938 : 31 fois
+id 1037 : 28 fois
+id 1823 : 28 fois
+id 2968 : 25 fois
+id 302 : 24 fois
+id 630 : 24 fois
+id 108 : 20 fois
+id 233 : 20 fois
+id 2591 : 13 fois
+id 2963 : 13 fois
+id 2724 : 12 fois
+id 3557 : 12 fois
+id 1045 : 10 fois
+id 1596 : 10 fois
+id 2592 : 9 fois
+id 3556 : 9 fois
+id 3039 : 8 fois
+id 2929 : 7 fois
+id 104 : 6 fois
+id 2727 : 6 fois
+id 3555 : 6 fois
+id 562 : 4 fois
+id 3374 : 3 fois
+id 1169 : 2 fois
+id 225 : 1 fois
+id 827 : 1 fois
+id 1091 : 1 fois
+id 3552 : 1 fois
+id 3554 : 1 fois
+
+
+LE_JT_DE_CANALPLUS
+id 211 : 24 fois
+id 865 : 1 fois
+id 1083 : 1 fois
+
+
+LE_MEILLEUR_DU_HIER
+id 213 : 500 fois
+id 112 : 100 fois
+id 215 : 80 fois
+id 1317 : 80 fois
+id 214 : 57 fois
+id 2214 : 57 fois
+
+
+LE_PETIT_JOURNAL
+id 621 : 424 fois
+id 249 : 100 fois
+id 852 : 65 fois
+id 2300 : 50 fois
+id 2978 : 50 fois
+id 2981 : 50 fois
+id 2933 : 39 fois
+id 2961 : 28 fois
+id 2932 : 19 fois
+id 2980 : 19 fois
+id 781 : 15 fois
+id 250 : 10 fois
+id 2006 : 10 fois
+id 1831 : 9 fois
+id 1124 : 6 fois
+id 3246 : 6 fois
+id 2657 : 4 fois
+id 3151 : 4 fois
+id 251 : 2 fois
+id 1203 : 1 fois
+id 2605 : 1 fois
+
+
+LE_SUPPLEMENT
+id 2116 : 50 fois
+id 1504 : 34 fois
+id 1148 : 32 fois
+id 3049 : 31 fois
+id 1088 : 30 fois
+id 2113 : 30 fois
+id 3057 : 27 fois
+id 2117 : 10 fois
+id 1069 : 2 fois
+id 2749 : 1 fois
+
+
+LE_SUPPLEMENT_POLITIQUE
+id 2112 : 12 fois
+id 1793 : 3 fois
+id 2107 : 3 fois
+id 2108 : 3 fois
+
+
+LE_TUBE
+id 1913 : 184 fois
+id 1911 : 107 fois
+id 2226 : 78 fois
+id 3355 : 78 fois
+id 3044 : 48 fois
+id 3052 : 22 fois
+id 3145 : 9 fois
+id 2225 : 6 fois
+id 3053 : 3 fois
+
+
+LILYHAMMER_SAISON_1
+id 2011 : 10 fois
+id 2012 : 7 fois
+id 2009 : 3 fois
+id 2008 : 1 fois
+
+
+LILYHAMMER_SAISON_2
+id 2593 : 9 fois
+id 2594 : 1 fois
+
+
+LILYHAMMER_SAISON_3
+id 3451 : 2 fois
+
+
+LIVE_DE_LA_SEMAINE
+id 1067 : 23 fois
+
+
+LUCK
+id 2025 : 11 fois
+
+
+LUTHER
+id 878 : 11 fois
+id 877 : 6 fois
+id 876 : 5 fois
+
+
+LUTHER_SAISON_3
+id 2230 : 3 fois
+id 2229 : 2 fois
+
+
+L_ACTU_DES_SERIES
+id 19 : 60 fois
+id 445 : 43 fois
+id 139 : 30 fois
+id 140 : 30 fois
+id 21 : 20 fois
+id 132 : 20 fois
+id 481 : 20 fois
+id 16 : 8 fois
+id 100 : 8 fois
+id 90 : 7 fois
+id 578 : 5 fois
+id 188 : 3 fois
+id 657 : 2 fois
+id 671 : 2 fois
+id 20 : 1 fois
+
+
+L_EFFET_PAPILLON
+id 1162 : 234 fois
+id 2024 : 40 fois
+id 1095 : 10 fois
+id 3162 : 7 fois
+id 3190 : 5 fois
+id 3410 : 5 fois
+id 1163 : 4 fois
+id 3574 : 1 fois
+
+
+L_OEIL_DE_LINKS
+id 2967 : 100 fois
+id 3067 : 18 fois
+id 622 : 4 fois
+id 3386 : 1 fois
+
+
+MAD DOGS - SAISON 1
+id 957 : 11 fois
+
+
+MAD MEN - SAISON 3
+id 300 : 13 fois
+
+
+MAD MEN - SAISON 5
+id 1142 : 13 fois
+
+
+MAD_MEN_SAISON_6
+id 2189 : 16 fois
+
+
+MAFIOSA
+id 2427 : 28 fois
+id 2428 : 10 fois
+
+
+MAFIOSA - SAISON 3
+id 2426 : 50 fois
+id 432 : 25 fois
+id 436 : 6 fois
+
+
+MAFIOSA_S5
+id 2440 : 9 fois
+id 2470 : 9 fois
+id 2473 : 4 fois
+id 2519 : 1 fois
+
+
+MAFIOSA_SAISON_4
+id 825 : 32 fois
+id 2424 : 32 fois
+id 430 : 15 fois
+id 66 : 12 fois
+id 431 : 8 fois
+id 862 : 6 fois
+id 429 : 5 fois
+
+
+MAGNUM
+id 3543 : 10 fois
+
+
+MAISON CLOSE - SAISON 1
+id 301 : 32 fois
+
+
+MAISON CLOSE - SAISON 2
+id 1331 : 7 fois
+id 1298 : 5 fois
+id 1330 : 1 fois
+
+
+MARCHES_OU_CANNES
+id 1582 : 12 fois
+
+
+MENSOMADAIRE
+id 541 : 23 fois
+
+
+MES CHERES ETUDES
+id 127 : 6 fois
+
+
+MI - 5
+id 453 : 10 fois
+id 914 : 8 fois
+
+
+MI 5 SAISON 10
+id 1522 : 1 fois
+
+
+MI_5_SAISON_9
+id 912 : 10 fois
+id 913 : 2 fois
+
+
+MON ONCLE CHARLIE - SAISON 7
+id 473 : 20 fois
+
+
+MON ONCLE CHARLIE SAISON 9
+id 1762 : 20 fois
+
+
+MON PERE FRANCIS LE BELGE
+id 405 : 2 fois
+
+
+MONTEE_DES_MARCHES
+id 856 : 40 fois
+id 3548 : 19 fois
+id 3578 : 19 fois
+id 1595 : 18 fois
+
+
+MOOT-MOOT
+id 546 : 20 fois
+
+
+MOULOUD_ACHOUR
+id 366 : 27 fois
+
+
+MUSIC_PLUS
+id 2481 : 9 fois
+
+
+MYLENE ET SON GARCON - SAISON 1
+id 71 : 1 fois
+
+
+NO ORDINARY FAMILY
+id 577 : 40 fois
+
+
+NON_MAIS_C_EST_QUOI_ENCORE_CE_FILM
+id 1513 : 20 fois
+
+
+NURSE JACKIE - SAISON 2
+id 544 : 4 fois
+
+
+NURSE JACKIE SAISON 4
+id 1424 : 16 fois
+
+
+NURSE_JACKIE
+id 183 : 30 fois
+
+
+NURSE_JACKIE_SAISON_5
+id 1981 : 21 fois
+
+
+ON_THE_RUN_TOUR
+id 3004 : 1 fois
+
+
+OPERATION_FRISSON
+id 1683 : 17 fois
+
+
+OSCARS
+id 803 : 50 fois
+id 824 : 36 fois
+id 774 : 26 fois
+id 1348 : 24 fois
+id 3352 : 8 fois
+id 1347 : 4 fois
+id 3381 : 2 fois
+id 1355 : 1 fois
+
+
+PALMASHOW
+id 1172 : 80 fois
+id 1473 : 73 fois
+id 1170 : 60 fois
+id 1174 : 25 fois
+id 1176 : 20 fois
+id 1420 : 10 fois
+id 1194 : 9 fois
+id 1175 : 4 fois
+
+
+PALMOMETRE
+id 1592 : 9 fois
+
+
+PARKS_AND_RECREATION
+id 3587 : 5 fois
+id 3596 : 1 fois
+
+
+PECHE
+id 1551 : 101 fois
+id 1547 : 100 fois
+id 1566 : 7 fois
+
+
+PENDANT_CE_TEMPS
+id 1825 : 7 fois
+
+
+PEPITES_SUR_LE_NET
+id 319 : 100 fois
+id 1189 : 100 fois
+id 1188 : 36 fois
+id 321 : 20 fois
+id 320 : 10 fois
+
+
+PHOTOCALL
+id 193 : 33 fois
+id 3549 : 18 fois
+id 1603 : 15 fois
+
+
+PIGALLE_LA_NUIT_SAISON_1
+id 115 : 31 fois
+
+
+PLATANE - SAISON 1
+id 569 : 38 fois
+id 643 : 11 fois
+id 644 : 11 fois
+id 641 : 10 fois
+id 642 : 10 fois
+id 650 : 10 fois
+id 651 : 7 fois
+id 645 : 2 fois
+id 646 : 1 fois
+
+
+PLATANE_SAISON_2
+id 1752 : 19 fois
+id 1876 : 9 fois
+id 1877 : 9 fois
+
+
+PRIME SUSPECT - SAISON 1
+id 1097 : 22 fois
+id 1099 : 13 fois
+id 1098 : 6 fois
+id 1128 : 3 fois
+
+
+PUSHING DAISIES
+id 67 : 20 fois
+
+
+RAISING HOPE - SAISON 2
+id 955 : 23 fois
+
+
+RAY_DONOVAN
+id 2739 : 7 fois
+id 2445 : 3 fois
+
+
+RAY_DONOVAN_S1
+id 3077 : 11 fois
+id 3034 : 9 fois
+id 3033 : 1 fois
+id 3065 : 1 fois
+
+
+RAY_DONOVAN_S2
+id 3187 : 9 fois
+id 3196 : 7 fois
+id 3177 : 6 fois
+
+
+RENTREE_CANAL
+id 2895 : 24 fois
+id 2900 : 3 fois
+
+
+REPORTERS
+id 85 : 20 fois
+
+
+REVENGE SAISON 2
+id 1724 : 39 fois
+
+
+REVENGE_SAISON_1
+id 1042 : 22 fois
+
+
+REVENGE_SAISON_3
+id 1997 : 40 fois
+
+
+REVENGE_SAISON_4
+id 3046 : 16 fois
+
+
+ROBIN DES BOIS - SAISON 3
+id 461 : 13 fois
+
+
+ROMANZO CRIMINALE - SAISON 1
+id 102 : 20 fois
+
+
+ROYAL_PAINS
+id 2446 : 4 fois
+
+
+ROYAL_PAINS_SAISON_3
+id 954 : 18 fois
+
+
+ROYAL_PAINS_SAISON_4
+id 2169 : 12 fois
+id 2168 : 10 fois
+id 2167 : 1 fois
+
+
+RUGBY
+id 1950 : 200 fois
+id 334 : 97 fois
+id 3054 : 97 fois
+id 6 : 50 fois
+id 1023 : 50 fois
+id 154 : 20 fois
+id 189 : 20 fois
+id 333 : 20 fois
+id 495 : 20 fois
+id 1956 : 16 fois
+id 1971 : 16 fois
+id 197 : 15 fois
+id 1143 : 15 fois
+id 2253 : 15 fois
+id 2966 : 15 fois
+id 2971 : 15 fois
+id 1024 : 13 fois
+id 1384 : 13 fois
+id 378 : 12 fois
+id 811 : 8 fois
+id 268 : 7 fois
+id 1144 : 4 fois
+id 335 : 1 fois
+
+
+SALUT_LES_TERRIENS
+id 2355 : 60 fois
+id 2979 : 59 fois
+id 2403 : 45 fois
+id 1064 : 40 fois
+id 2022 : 40 fois
+id 2303 : 32 fois
+id 661 : 30 fois
+id 680 : 30 fois
+id 3205 : 25 fois
+id 3020 : 23 fois
+id 2983 : 20 fois
+id 3407 : 10 fois
+id 3163 : 7 fois
+id 2356 : 3 fois
+id 1967 : 2 fois
+id 1072 : 1 fois
+id 3007 : 1 fois
+
+
+SCANDAL_SAISON_1
+id 1390 : 16 fois
+
+
+SCANDAL_SAISON_2
+id 1472 : 35 fois
+
+
+SCANDAL_SAISON_3
+id 2016 : 33 fois
+
+
+SEASONS_HEBDO
+id 1542 : 135 fois
+id 1541 : 100 fois
+id 1543 : 99 fois
+id 1678 : 32 fois
+id 1544 : 19 fois
+id 1545 : 13 fois
+
+
+SEBASTIEN_SPIELBERG
+id 1581 : 5 fois
+
+
+SHAMELESS - SAISON 1
+id 629 : 15 fois
+id 669 : 4 fois
+
+
+SHAMELESS - SAISON 2
+id 1153 : 13 fois
+
+
+SHAMELESS_SAISON_3
+id 2005 : 24 fois
+
+
+SHAMELESS_SAISON_4
+id 2922 : 4 fois
+
+
+SHAMELESS_SAISON_5
+id 3270 : 15 fois
+
+
+SINBAD - SAISON 1
+id 1338 : 13 fois
+id 1340 : 12 fois
+id 1339 : 1 fois
+
+
+SITE_EXCLU_30ANS
+id 3142 : 3 fois
+
+
+SKINS
+id 283 : 13 fois
+
+
+SKINS - SAISON 5
+id 947 : 8 fois
+
+
+SKINS_SAISON_6
+id 2096 : 20 fois
+
+
+SKINS_SAISON_7
+id 2673 : 7 fois
+
+
+SOLDAT_BLANC
+id 2923 : 4 fois
+id 2880 : 3 fois
+id 2769 : 1 fois
+
+
+SONIC_HIGHWAYS
+id 3280 : 6 fois
+
+
+SOUTHCLIFFE
+id 2904 : 2 fois
+
+
+SPEAKERINE
+id 2936 : 100 fois
+
+
+SPECIAL
+id 2306 : 24 fois
+id 2163 : 19 fois
+id 3411 : 18 fois
+id 1894 : 12 fois
+id 2018 : 12 fois
+id 3298 : 9 fois
+id 2644 : 7 fois
+id 2019 : 2 fois
+
+
+SPECIAL_INVESTIGATION
+id 131 : 39 fois
+id 794 : 22 fois
+id 1166 : 4 fois
+id 3500 : 4 fois
+id 3544 : 2 fois
+
+
+SPEEDTRAILER
+id 3532 : 3 fois
+
+
+SPOTLESS
+id 3324 : 11 fois
+id 3435 : 11 fois
+id 3387 : 2 fois
+id 3392 : 2 fois
+
+
+STRIKE BACK - SAISON 1 
+id 907 : 3 fois
+
+
+STRIKE_BACK_SAISON_3
+id 2734 : 11 fois
+id 910 : 5 fois
+
+
+SUBURGATORY
+id 1535 : 15 fois
+
+
+SUJET
+id 332 : 20 fois
+id 485 : 2 fois
+
+
+TENDANCES
+id 121 : 9 fois
+id 210 : 2 fois
+id 424 : 2 fois
+
+
+TENNIS
+id 147 : 20 fois
+id 173 : 20 fois
+id 170 : 10 fois
+id 464 : 7 fois
+id 602 : 2 fois
+id 1315 : 2 fois
+
+
+TETE DE CANNES
+id 1556 : 8 fois
+
+
+THE BIG C
+id 768 : 1 fois
+
+
+THE BIG C - SAISON 2
+id 1061 : 14 fois
+
+
+THE BIG C SAISON 3
+id 1534 : 21 fois
+
+
+THE OFFICE
+id 864 : 25 fois
+id 540 : 24 fois
+id 284 : 20 fois
+
+
+THE PACIFIC
+id 198 : 33 fois
+id 584 : 1 fois
+
+
+THE SHIELD
+id 18 : 1 fois
+
+
+THE TUDORS
+id 477 : 11 fois
+id 478 : 3 fois
+
+
+THE TUDORS - SAISON 3
+id 78 : 9 fois
+
+
+THE TUDORS - SAISON 4
+id 476 : 20 fois
+
+
+THE_AFFAIR_S1
+id 3091 : 15 fois
+id 2985 : 2 fois
+
+
+THE_AMERICANS_S3
+id 3338 : 14 fois
+id 3359 : 12 fois
+id 3360 : 2 fois
+
+
+THE_AMERICANS_SAISON_1
+id 2173 : 30 fois
+id 2174 : 13 fois
+id 2175 : 13 fois
+id 2222 : 4 fois
+
+
+THE_AMERICANS_SAISON_2
+id 2371 : 20 fois
+id 2454 : 12 fois
+id 2461 : 12 fois
+
+
+THE_BIG_C_SAISON_4
+id 2373 : 8 fois
+
+
+THE_BRIDGE
+id 3051 : 4 fois
+
+
+THE_BRIDGE_BRON
+id 2293 : 10 fois
+id 2294 : 9 fois
+
+
+THE_NEWSROOM
+id 3121 : 6 fois
+
+
+THE_NEWSROOM_S1
+id 2590 : 11 fois
+id 2589 : 10 fois
+id 2576 : 1 fois
+
+
+THE_NEWSROOM_S2
+id 3297 : 1 fois
+
+
+THE_OFFICE_SAISON_8
+id 1388 : 28 fois
+
+
+THE_SMOKE
+id 3012 : 2 fois
+
+
+THOSE_WHO_KILL
+id 2782 : 10 fois
+
+
+TUNNEL
+id 2095 : 10 fois
+id 2015 : 2 fois
+
+
+TUTOS
+id 1837 : 9 fois
+
+
+TWEET_EN_CLAIR
+id 936 : 23 fois
+id 1065 : 23 fois
+
+
+UN MONDE SANS FIN - SAISON 5
+id 1157 : 27 fois
+id 1160 : 12 fois
+id 1159 : 8 fois
+id 1158 : 7 fois
+id 1161 : 5 fois
+
+
+UNE_JOURNEE_A_CANNES_AVEC
+id 898 : 13 fois
+id 3550 : 5 fois
+
+
+UNITED STATES OF TARA
+id 200 : 29 fois
+
+
+UNITED STATES OF TARA - SAISON 2
+id 501 : 22 fois
+id 545 : 3 fois
+
+
+UNITED STATES OF TARA - SAISON 3
+id 949 : 12 fois
+
+
+UTOPIA_SAISON_1
+id 1966 : 16 fois
+id 1965 : 12 fois
+id 1964 : 4 fois
+
+
+UTOPIA_SAISON_2
+id 3097 : 4 fois
+id 3106 : 4 fois
+
+
+VAMPIRE DIAIRIES - SAISON 1
+id 348 : 51 fois
+
+
+VEEP
+id 2906 : 1 fois
+
+
+VERSAILLES
+id 3538 : 1 fois
+
+
+VIENS JOUER SUR CANAL+
+id 509 : 20 fois
+
+
+VIKINGS SAISON 1
+id 1651 : 10 fois
+
+
+VIKINGS_SAISON_2
+id 2661 : 10 fois
+id 2662 : 9 fois
+
+
+VIKINGS_SAISON_3
+id 3499 : 8 fois
+
+
+VIVA_CINEMA
+id 965 : 72 fois
+id 1699 : 50 fois
+
+
+VOYAGE_CHASSE
+id 1563 : 24 fois
+id 1548 : 19 fois
+id 1552 : 10 fois
+
+
+VOYAGE_PECHE
+id 1549 : 25 fois
+id 1564 : 22 fois
+id 1553 : 12 fois
+id 1562 : 12 fois
+
+
+WEEDS - SAISON 5
+id 551 : 28 fois
+
+
+WEEDS - SAISON 6
+id 80 : 14 fois
+
+
+WEEDS_SAISON_7
+id 1954 : 26 fois
+id 1952 : 13 fois
+id 1953 : 12 fois
+
+
+WEEDS_SAISON_8
+id 2467 : 6 fois
+
+
+WORKINGIRLS
+id 868 : 44 fois
+id 870 : 16 fois
+id 869 : 11 fois
+id 871 : 4 fois
+
+
+WORKINGIRLS - SAISON 2
+id 1680 : 10 fois
+id 1624 : 4 fois
+
+
+WORKINGIRLS_NOEL
+id 3223 : 6 fois
+id 3210 : 2 fois
+id 3229 : 1 fois
+
+
+WORKINGIRLS_SAISON_3
+id 2391 : 14 fois
+id 2385 : 1 fois
+
+
+XIII
+id 529 : 43 fois
+
+
+XIII.2
+id 1078 : 39 fois
+id 1100 : 26 fois
+id 1079 : 9 fois
+id 1090 : 4 fois
+
+
+X_GAMES
+id 149 : 20 fois
+id 1605 : 18 fois
+id 1604 : 17 fois
+id 1467 : 14 fois
+id 528 : 12 fois
+id 1301 : 12 fois
+id 1718 : 12 fois
+id 1788 : 11 fois
+id 1789 : 11 fois
+id 1466 : 10 fois
+id 1719 : 10 fois
+id 355 : 4 fois
+id 831 : 2 fois
+id 832 : 2 fois
+id 353 : 1 fois
+id 1395 : 1 fois
+
+
+ZAPPING
+id 201 : 101 fois
+id 207 : 9 fois
+id 785 : 1 fois
+id 1225 : 1 fois
+
+
+ZAPPING_CANNOIS
+id 229 : 46 fois
+id 3551 : 12 fois
+id 1601 : 11 fois
+
+
+ZAPSPORT
+id 1533 : 50 fois
+id 176 : 20 fois
+
+
