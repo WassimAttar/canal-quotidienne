@@ -87,7 +87,7 @@ id 122 : 1 fois
 AUTRES_SPORTS
 id 1972 : 30 fois
 id 1619 : 27 fois
-id 3211 : 22 fois
+id 3211 : 23 fois
 id 888 : 18 fois
 id 2145 : 17 fois
 id 3000 : 16 fois
@@ -101,14 +101,14 @@ BA
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
-id 1639 : 21 fois
 id 3328 : 19 fois
+id 1639 : 18 fois
 id 1641 : 16 fois
 id 1633 : 15 fois
 id 1640 : 15 fois
 id 1580 : 13 fois
 id 1632 : 13 fois
-id 1642 : 11 fois
+id 1642 : 10 fois
 id 1669 : 10 fois
 id 1670 : 10 fois
 id 3148 : 5 fois
@@ -530,7 +530,7 @@ id 1048 : 48 fois
 id 1046 : 41 fois
 id 381 : 30 fois
 id 2346 : 27 fois
-id 11 : 20 fois
+id 11 : 21 fois
 id 313 : 20 fois
 id 1047 : 17 fois
 id 962 : 13 fois
@@ -652,12 +652,12 @@ id 158 : 20 fois
 id 159 : 20 fois
 id 160 : 20 fois
 id 171 : 20 fois
+id 244 : 20 fois
 id 258 : 20 fois
 id 279 : 20 fois
 id 383 : 20 fois
 id 421 : 20 fois
 id 1419 : 20 fois
-id 244 : 19 fois
 id 594 : 17 fois
 id 162 : 16 fois
 id 611 : 14 fois
@@ -670,8 +670,8 @@ id 331 : 9 fois
 id 2529 : 8 fois
 id 1423 : 7 fois
 id 1944 : 7 fois
+id 3433 : 7 fois
 id 247 : 6 fois
-id 3433 : 6 fois
 id 248 : 5 fois
 id 610 : 3 fois
 id 223 : 2 fois
@@ -689,9 +689,9 @@ id 1407 : 30 fois
 id 1408 : 30 fois
 id 3465 : 28 fois
 id 3463 : 27 fois
+id 3466 : 22 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
-id 3466 : 18 fois
 id 3464 : 14 fois
 id 3422 : 6 fois
 
@@ -927,9 +927,9 @@ id 362 : 21 fois
 id 177 : 20 fois
 id 390 : 18 fois
 id 624 : 13 fois
+id 2997 : 13 fois
 id 360 : 12 fois
 id 389 : 12 fois
-id 2997 : 12 fois
 id 388 : 8 fois
 id 468 : 8 fois
 id 2732 : 7 fois
@@ -1061,18 +1061,18 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 691 fois
-id 2460 : 181 fois
-id 3128 : 142 fois
+id 2327 : 693 fois
+id 2460 : 182 fois
+id 3128 : 143 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
 id 632 : 51 fois
+id 2417 : 51 fois
 id 2957 : 51 fois
-id 2417 : 50 fois
-id 3123 : 47 fois
+id 3123 : 48 fois
 id 2324 : 40 fois
 id 2419 : 40 fois
 id 3129 : 40 fois
@@ -1185,12 +1185,12 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 225 fois
+id 1918 : 228 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 42 fois
-id 3016 : 35 fois
+id 3013 : 44 fois
+id 3016 : 36 fois
 id 3027 : 18 fois
 id 1903 : 10 fois
 id 2770 : 10 fois
@@ -1237,8 +1237,8 @@ id 2947 : 34 fois
 id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
+id 302 : 25 fois
 id 2968 : 25 fois
-id 302 : 24 fois
 id 630 : 24 fois
 id 108 : 20 fois
 id 233 : 20 fois
@@ -1267,7 +1267,7 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 1 fois
+id 865 : 2 fois
 id 1083 : 1 fois
 
 
@@ -1306,7 +1306,7 @@ id 2605 : 1 fois
 
 LE_SUPPLEMENT
 id 2116 : 50 fois
-id 1504 : 35 fois
+id 1504 : 34 fois
 id 1148 : 32 fois
 id 3049 : 32 fois
 id 1088 : 31 fois
@@ -1318,7 +1318,7 @@ id 2749 : 1 fois
 
 
 LE_SUPPLEMENT_POLITIQUE
-id 2112 : 12 fois
+id 2112 : 11 fois
 id 1793 : 3 fois
 id 2107 : 3 fois
 id 2108 : 3 fois
@@ -1717,8 +1717,8 @@ id 2167 : 1 fois
 
 RUGBY
 id 1950 : 200 fois
-id 334 : 97 fois
 id 3054 : 97 fois
+id 334 : 96 fois
 id 6 : 50 fois
 id 1023 : 50 fois
 id 154 : 20 fois
@@ -1736,7 +1736,7 @@ id 1024 : 13 fois
 id 1384 : 13 fois
 id 378 : 12 fois
 id 811 : 8 fois
-id 268 : 7 fois
+id 268 : 6 fois
 id 1144 : 4 fois
 id 335 : 1 fois
 
@@ -1744,7 +1744,7 @@ id 335 : 1 fois
 SALUT_LES_TERRIENS
 id 2355 : 60 fois
 id 2979 : 59 fois
-id 2403 : 45 fois
+id 2403 : 44 fois
 id 1064 : 40 fois
 id 2022 : 40 fois
 id 2303 : 32 fois
@@ -1776,7 +1776,7 @@ id 2016 : 33 fois
 SEASONS_HEBDO
 id 1542 : 135 fois
 id 1541 : 100 fois
-id 1543 : 99 fois
+id 1543 : 100 fois
 id 1678 : 32 fois
 id 1544 : 19 fois
 id 1545 : 13 fois
