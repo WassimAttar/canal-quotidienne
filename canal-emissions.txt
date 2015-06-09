@@ -35,6 +35,10 @@ ACTION_DISCRETE
 id 304 : 5 fois
 
 
+ACTUELLEMENT
+id 1115 : 55 fois
+
+
 ADIEU DE GAULLE ADIEU
 id 81 : 4 fois
 
@@ -53,7 +57,7 @@ id 241 : 1 fois
 
 
 ALBUM_DE_LA_SEMAINE
-id 1089 : 294 fois
+id 1089 : 295 fois
 id 336 : 41 fois
 id 339 : 21 fois
 id 32 : 15 fois
@@ -101,8 +105,8 @@ BA
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
+id 1639 : 21 fois
 id 3328 : 19 fois
-id 1639 : 18 fois
 id 1641 : 16 fois
 id 1633 : 15 fois
 id 1640 : 15 fois
@@ -388,7 +392,6 @@ id 538 : 5 fois
 CINEPLUS
 id 1112 : 50 fois
 id 1116 : 50 fois
-id 1115 : 21 fois
 id 3592 : 11 fois
 
 
@@ -600,7 +603,6 @@ id 3508 : 1 fois
 
 
 FACE_AU_FILM
-id 3028 : 50 fois
 id 1114 : 30 fois
 id 1650 : 30 fois
 id 1637 : 20 fois
@@ -640,9 +642,9 @@ id 2972 : 50 fois
 id 2984 : 50 fois
 id 841 : 40 fois
 id 246 : 39 fois
+id 384 : 39 fois
 id 2121 : 39 fois
 id 2252 : 39 fois
-id 384 : 38 fois
 id 2740 : 33 fois
 id 3 : 30 fois
 id 1795 : 30 fois
@@ -684,12 +686,12 @@ FORMULE_1
 id 3056 : 100 fois
 id 3485 : 34 fois
 id 1369 : 33 fois
-id 2678 : 33 fois
 id 1407 : 30 fois
 id 1408 : 30 fois
+id 2678 : 30 fois
 id 3465 : 28 fois
 id 3463 : 27 fois
-id 3466 : 22 fois
+id 3466 : 23 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
 id 3464 : 14 fois
@@ -697,7 +699,6 @@ id 3422 : 6 fois
 
 
 FRISSON_BREAK
-id 373 : 50 fois
 id 1706 : 42 fois
 
 
@@ -791,6 +792,7 @@ id 2920 : 6 fois
 
 HANNIBAL_SAISON_3
 id 3595 : 1 fois
+id 3603 : 1 fois
 
 
 HAPPY TOWN
@@ -812,7 +814,7 @@ id 573 : 38 fois
 
 
 HARD_SAISON_3
-id 3576 : 10 fois
+id 3576 : 11 fois
 id 3597 : 5 fois
 id 3593 : 1 fois
 
@@ -926,8 +928,8 @@ id 1022 : 24 fois
 id 362 : 21 fois
 id 177 : 20 fois
 id 390 : 18 fois
+id 2997 : 14 fois
 id 624 : 13 fois
-id 2997 : 13 fois
 id 360 : 12 fois
 id 389 : 12 fois
 id 388 : 8 fois
@@ -1061,16 +1063,16 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 693 fois
-id 2460 : 182 fois
+id 2327 : 694 fois
+id 2460 : 183 fois
 id 3128 : 143 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
+id 2417 : 52 fois
 id 632 : 51 fois
-id 2417 : 51 fois
 id 2957 : 51 fois
 id 3123 : 48 fois
 id 2324 : 40 fois
@@ -1097,8 +1099,7 @@ id 1839 : 1 fois
 
 
 LA_SEMAINE_CINEMA
-id 1704 : 100 fois
-id 341 : 80 fois
+id 3606 : 40 fois
 
 
 LBDL
@@ -1138,7 +1139,7 @@ id 396 : 3 fois
 
 
 LES_GUIGNOLS
-id 222 : 234 fois
+id 222 : 233 fois
 id 672 : 54 fois
 id 684 : 51 fois
 id 48 : 16 fois
@@ -1224,6 +1225,10 @@ id 2271 : 3 fois
 id 1294 : 1 fois
 
 
+LE_GRAND_FRISSON
+id 373 : 51 fois
+
+
 LE_GRAND_JOURNAL
 id 237 : 150 fois
 id 2930 : 122 fois
@@ -1267,7 +1272,8 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 2 fois
+id 865 : 4 fois
+id 3604 : 4 fois
 id 1083 : 1 fois
 
 
@@ -1307,21 +1313,21 @@ id 2605 : 1 fois
 LE_SUPPLEMENT
 id 2116 : 50 fois
 id 1504 : 34 fois
-id 1148 : 32 fois
 id 3049 : 32 fois
 id 1088 : 31 fois
+id 1148 : 31 fois
 id 2113 : 30 fois
 id 3057 : 28 fois
 id 2117 : 10 fois
-id 1069 : 2 fois
+id 1069 : 1 fois
 id 2749 : 1 fois
 
 
 LE_SUPPLEMENT_POLITIQUE
-id 2112 : 11 fois
-id 1793 : 3 fois
-id 2107 : 3 fois
-id 2108 : 3 fois
+id 2112 : 10 fois
+id 1793 : 2 fois
+id 2107 : 2 fois
+id 2108 : 2 fois
 
 
 LE_TUBE
@@ -1587,6 +1593,11 @@ id 1592 : 9 fois
 PARKS_AND_RECREATION
 id 3587 : 5 fois
 id 3596 : 1 fois
+
+
+PAR_ICI_LES_SORTIES
+id 1704 : 300 fois
+id 341 : 41 fois
 
 
 PECHE
@@ -2021,6 +2032,10 @@ THOSE_WHO_KILL
 id 2782 : 10 fois
 
 
+TOUS_CINEMA
+id 3028 : 35 fois
+
+
 TUNNEL
 id 2095 : 10 fois
 id 2015 : 2 fois
@@ -2102,7 +2117,7 @@ id 3499 : 8 fois
 
 
 VIVA_CINEMA
-id 965 : 72 fois
+id 965 : 73 fois
 id 1699 : 50 fois
 
 
