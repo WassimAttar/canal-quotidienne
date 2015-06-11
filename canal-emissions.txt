@@ -166,7 +166,8 @@ id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
 id 3119 : 6 fois
-id 617 : 1 fois
+id 617 : 2 fois
+id 1828 : 2 fois
 
 
 BA_ANTENNE
@@ -526,7 +527,7 @@ id 243 : 5 fois
 
 EMISSION
 id 1049 : 110 fois
-id 896 : 104 fois
+id 896 : 105 fois
 id 1880 : 60 fois
 id 1693 : 50 fois
 id 1048 : 48 fois
@@ -540,9 +541,9 @@ id 962 : 13 fois
 id 691 : 12 fois
 id 964 : 12 fois
 id 449 : 10 fois
-id 2742 : 10 fois
 id 343 : 9 fois
 id 1051 : 9 fois
+id 2742 : 9 fois
 id 1314 : 7 fois
 id 52 : 6 fois
 id 1043 : 5 fois
@@ -554,9 +555,9 @@ id 3329 : 3 fois
 id 277 : 2 fois
 id 808 : 2 fois
 id 809 : 2 fois
+id 1050 : 2 fois
 id 1192 : 2 fois
 id 145 : 1 fois
-id 1050 : 1 fois
 id 2376 : 1 fois
 id 2744 : 1 fois
 
@@ -669,10 +670,10 @@ id 385 : 10 fois
 id 386 : 10 fois
 id 1152 : 10 fois
 id 331 : 9 fois
+id 3433 : 9 fois
 id 2529 : 8 fois
 id 1423 : 7 fois
 id 1944 : 7 fois
-id 3433 : 7 fois
 id 247 : 6 fois
 id 248 : 5 fois
 id 610 : 3 fois
@@ -691,7 +692,7 @@ id 1408 : 30 fois
 id 2678 : 30 fois
 id 3465 : 28 fois
 id 3463 : 27 fois
-id 3466 : 23 fois
+id 3466 : 26 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
 id 3464 : 14 fois
@@ -1063,17 +1064,17 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 694 fois
-id 2460 : 183 fois
-id 3128 : 142 fois
+id 2327 : 695 fois
+id 2460 : 180 fois
+id 3128 : 141 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
-id 2417 : 53 fois
+id 2417 : 54 fois
 id 2957 : 51 fois
-id 632 : 50 fois
+id 632 : 49 fois
 id 3123 : 48 fois
 id 2324 : 40 fois
 id 2419 : 40 fois
@@ -1084,13 +1085,13 @@ id 3122 : 24 fois
 id 3126 : 22 fois
 id 3354 : 22 fois
 id 628 : 20 fois
-id 658 : 12 fois
 id 3150 : 12 fois
+id 3391 : 11 fois
+id 3415 : 11 fois
+id 3487 : 11 fois
 id 687 : 10 fois
-id 3391 : 10 fois
-id 3415 : 10 fois
-id 3487 : 10 fois
 id 3124 : 9 fois
+id 658 : 8 fois
 id 3127 : 5 fois
 id 2212 : 2 fois
 id 634 : 1 fois
@@ -1186,11 +1187,11 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 228 fois
+id 1918 : 229 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 44 fois
+id 3013 : 45 fois
 id 3016 : 36 fois
 id 3027 : 18 fois
 id 1903 : 10 fois
@@ -1238,13 +1239,13 @@ id 2935 : 62 fois
 id 1453 : 53 fois
 id 2599 : 50 fois
 id 3195 : 50 fois
-id 2947 : 35 fois
+id 2947 : 36 fois
 id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
 id 2968 : 25 fois
 id 302 : 24 fois
-id 630 : 23 fois
+id 630 : 22 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 2963 : 13 fois
@@ -1297,7 +1298,7 @@ id 2933 : 39 fois
 id 2961 : 28 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
-id 781 : 13 fois
+id 781 : 12 fois
 id 250 : 10 fois
 id 2006 : 10 fois
 id 1831 : 9 fois
@@ -1754,11 +1755,11 @@ id 335 : 1 fois
 
 SALUT_LES_TERRIENS
 id 2355 : 60 fois
-id 2979 : 59 fois
+id 2979 : 58 fois
 id 2403 : 44 fois
 id 1064 : 40 fois
 id 2022 : 40 fois
-id 2303 : 32 fois
+id 2303 : 31 fois
 id 661 : 30 fois
 id 680 : 30 fois
 id 3205 : 25 fois
@@ -1766,11 +1767,11 @@ id 3020 : 23 fois
 id 2983 : 20 fois
 id 3407 : 10 fois
 id 3163 : 7 fois
+id 1072 : 3 fois
 id 2356 : 3 fois
-id 1072 : 2 fois
 id 1967 : 2 fois
+id 3607 : 2 fois
 id 3007 : 1 fois
-id 3607 : 1 fois
 
 
 SCANDAL_SAISON_1
@@ -1921,7 +1922,7 @@ TENNIS
 id 147 : 20 fois
 id 173 : 20 fois
 id 170 : 10 fois
-id 464 : 7 fois
+id 464 : 6 fois
 id 602 : 2 fois
 id 1315 : 2 fois
 
