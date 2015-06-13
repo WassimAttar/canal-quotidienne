@@ -32,7 +32,7 @@ id 2203 : 14 fois
 
 
 ACTION_DISCRETE
-id 304 : 5 fois
+id 304 : 4 fois
 
 
 ACTUELLEMENT
@@ -103,6 +103,7 @@ id 1074 : 1 fois
 
 
 BA
+id 1576 : 100 fois
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
@@ -166,8 +167,8 @@ id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
 id 3119 : 6 fois
-id 617 : 2 fois
-id 1828 : 2 fois
+id 617 : 5 fois
+id 1828 : 5 fois
 
 
 BA_ANTENNE
@@ -909,7 +910,7 @@ id 498 : 6 fois
 
 
 INFOSPORT
-id 3486 : 14 fois
+id 3486 : 15 fois
 
 
 INSIDE MEN
@@ -956,7 +957,7 @@ JDJV
 id 260 : 36 fois
 id 261 : 36 fois
 id 262 : 10 fois
-id 263 : 9 fois
+id 263 : 8 fois
 id 1998 : 3 fois
 
 
@@ -1064,8 +1065,8 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 695 fois
-id 2460 : 180 fois
+id 2327 : 696 fois
+id 2460 : 182 fois
 id 3128 : 141 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
@@ -1076,10 +1077,10 @@ id 2417 : 54 fois
 id 2957 : 51 fois
 id 632 : 49 fois
 id 3123 : 48 fois
+id 2419 : 41 fois
 id 2324 : 40 fois
-id 2419 : 40 fois
 id 3129 : 40 fois
-id 2418 : 35 fois
+id 2418 : 36 fois
 id 2958 : 30 fois
 id 3122 : 24 fois
 id 3126 : 22 fois
@@ -1187,16 +1188,16 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 229 fois
+id 1918 : 230 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 45 fois
+id 3013 : 46 fois
 id 3016 : 36 fois
 id 3027 : 18 fois
-id 1903 : 10 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
+id 1903 : 9 fois
 id 3155 : 7 fois
 id 2166 : 5 fois
 id 1058 : 2 fois
@@ -1243,22 +1244,22 @@ id 2947 : 36 fois
 id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
-id 2968 : 25 fois
+id 2968 : 26 fois
 id 302 : 24 fois
-id 630 : 22 fois
+id 630 : 21 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 2963 : 13 fois
 id 2724 : 12 fois
 id 3557 : 12 fois
-id 2591 : 11 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
+id 2591 : 10 fois
 id 3556 : 9 fois
 id 3039 : 8 fois
-id 2592 : 7 fois
 id 2929 : 7 fois
 id 104 : 6 fois
+id 2592 : 6 fois
 id 2727 : 6 fois
 id 3555 : 6 fois
 id 562 : 4 fois
@@ -1288,17 +1289,17 @@ id 2214 : 57 fois
 
 
 LE_PETIT_JOURNAL
-id 621 : 424 fois
+id 621 : 425 fois
 id 249 : 100 fois
 id 852 : 65 fois
 id 2300 : 50 fois
 id 2978 : 50 fois
 id 2981 : 50 fois
 id 2933 : 39 fois
-id 2961 : 28 fois
+id 2961 : 29 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
-id 781 : 12 fois
+id 781 : 11 fois
 id 250 : 10 fois
 id 2006 : 10 fois
 id 1831 : 9 fois
@@ -1306,7 +1307,7 @@ id 1124 : 6 fois
 id 3246 : 6 fois
 id 2657 : 4 fois
 id 3151 : 4 fois
-id 251 : 2 fois
+id 251 : 3 fois
 id 1203 : 1 fois
 id 2605 : 1 fois
 
@@ -1608,7 +1609,7 @@ id 1566 : 7 fois
 
 
 PENDANT_CE_TEMPS
-id 1825 : 7 fois
+id 1825 : 6 fois
 
 
 PEPITES_SUR_LE_NET
@@ -1729,8 +1730,8 @@ id 2167 : 1 fois
 
 RUGBY
 id 1950 : 200 fois
+id 334 : 98 fois
 id 3054 : 97 fois
-id 334 : 96 fois
 id 6 : 50 fois
 id 1023 : 50 fois
 id 154 : 20 fois
@@ -1872,7 +1873,9 @@ id 1894 : 12 fois
 id 2018 : 12 fois
 id 3298 : 9 fois
 id 2644 : 7 fois
+id 3608 : 5 fois
 id 2019 : 2 fois
+id 3609 : 1 fois
 
 
 SPECIAL_INVESTIGATION
@@ -2035,7 +2038,7 @@ id 2782 : 10 fois
 
 
 TOUS_CINEMA
-id 3028 : 35 fois
+id 3028 : 36 fois
 
 
 TUNNEL
@@ -2115,7 +2118,7 @@ id 2662 : 9 fois
 
 
 VIKINGS_SAISON_3
-id 3499 : 8 fois
+id 3499 : 9 fois
 
 
 VIVA_CINEMA
