@@ -1,11 +1,17 @@
 # coding: utf-8
 
-import os, time, xml.dom.minidom, socket
+import os, time, xml.dom.minidom, socket, threading
 
 try:
 	import urllib.request as compat_urllib_request
 except ImportError:  # Python 2
 	import urllib2 as compat_urllib_request
+
+try:
+	import queue as compat_queue
+except ImportError:  # Python 2
+	import Queue as compat_queue
+
 
 homedir = os.path.expanduser('~')
 
@@ -13,6 +19,9 @@ homedir = os.path.expanduser('~')
 playlistdir = homedir + "/dev/canal-quotidienne/playlists/"
 
 class CanalScan :
+
+	__NBWORKERS = 10
+	__MAXPLAYLIST = 4000
 
 	# URL de toutes les vidéos d'une émission donnée.
 	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/{}'
@@ -55,14 +64,30 @@ class CanalScan :
 	def __geturlXmlMea(self,code):
 		return CanalScan.__urlXmlMea.format(code)
 
+	def __downloadPlaylist(self,codePlaylist):
+		print("playlist "+str(codePlaylist))
+		urlXmlMea = self.__geturlXmlMea(codePlaylist)
+		xmlMea = self.__downloadXml(urlXmlMea)
+		mea = self.__parseXmlMea(xmlMea)
+		if self.__parseXml(mea) :
+			self.__savePlaylist(xmlMea,codePlaylist)
+
+
+	def __worker(self):
+		while True :
+			codePlaylist = self.__q.get()
+			self.__downloadPlaylist(codePlaylist)
+			self.__q.task_done()
+
 	def downloadPlaylists(self):
-		for codePlaylist in list(range(0,4000)) :
-			print("playlist "+str(codePlaylist))
-			urlXmlMea = self.__geturlXmlMea(codePlaylist)
-			xmlMea = self.__downloadXml(urlXmlMea)
-			mea = self.__parseXmlMea(xmlMea)
-			if self.__parseXml(mea) :
-				self.__savePlaylist(xmlMea,codePlaylist)
+		self.__q = compat_queue.Queue()
+		for i in list(range(CanalScan.__NBWORKERS)):
+			t=threading.Thread(target=self.__worker)
+			t.daemon = True
+			t.start()
+		for codePlaylist in list(range(0,CanalScan.__MAXPLAYLIST)) :
+			self.__q.put(codePlaylist)
+		self.__q.join()
 
 
 if __name__ == "__main__":
