@@ -36,7 +36,7 @@ id 304 : 4 fois
 
 
 ACTUELLEMENT
-id 1112 : 192 fois
+id 1112 : 193 fois
 id 1115 : 55 fois
 
 
@@ -58,8 +58,8 @@ id 241 : 1 fois
 
 
 ALBUM_DE_LA_SEMAINE
-id 1089 : 295 fois
-id 336 : 41 fois
+id 1089 : 300 fois
+id 336 : 42 fois
 id 339 : 21 fois
 id 32 : 15 fois
 id 337 : 8 fois
@@ -109,11 +109,11 @@ id 1629 : 30 fois
 id 1643 : 30 fois
 id 1639 : 21 fois
 id 3328 : 19 fois
-id 1641 : 16 fois
-id 1633 : 15 fois
-id 1640 : 15 fois
-id 1580 : 13 fois
-id 1632 : 13 fois
+id 1633 : 13 fois
+id 1640 : 13 fois
+id 1641 : 13 fois
+id 1580 : 11 fois
+id 1632 : 11 fois
 id 1642 : 10 fois
 id 1669 : 10 fois
 id 1670 : 10 fois
@@ -166,9 +166,9 @@ id 266 : 20 fois
 id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
+id 617 : 6 fois
+id 1828 : 6 fois
 id 3119 : 6 fois
-id 617 : 5 fois
-id 1828 : 5 fois
 
 
 BA_ANTENNE
@@ -741,7 +741,7 @@ id 164 : 20 fois
 id 165 : 20 fois
 id 169 : 20 fois
 id 3149 : 20 fois
-id 583 : 8 fois
+id 583 : 7 fois
 id 179 : 5 fois
 id 182 : 2 fois
 
@@ -1065,9 +1065,9 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 696 fois
-id 2460 : 182 fois
-id 3128 : 141 fois
+id 2327 : 695 fois
+id 2460 : 181 fois
+id 3128 : 140 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
@@ -1075,7 +1075,7 @@ id 2463 : 100 fois
 id 2543 : 100 fois
 id 2417 : 54 fois
 id 2957 : 51 fois
-id 632 : 49 fois
+id 632 : 48 fois
 id 3123 : 48 fois
 id 2419 : 41 fois
 id 2324 : 40 fois
@@ -1092,7 +1092,7 @@ id 3415 : 11 fois
 id 3487 : 11 fois
 id 687 : 10 fois
 id 3124 : 9 fois
-id 658 : 8 fois
+id 658 : 7 fois
 id 3127 : 5 fois
 id 2212 : 2 fois
 id 634 : 1 fois
@@ -1199,7 +1199,7 @@ id 2770 : 10 fois
 id 3021 : 10 fois
 id 1903 : 9 fois
 id 3155 : 7 fois
-id 2166 : 5 fois
+id 2166 : 4 fois
 id 1058 : 2 fois
 id 1899 : 2 fois
 id 1957 : 2 fois
@@ -1246,9 +1246,9 @@ id 1037 : 28 fois
 id 1823 : 28 fois
 id 2968 : 26 fois
 id 302 : 24 fois
-id 630 : 21 fois
 id 108 : 20 fois
 id 233 : 20 fois
+id 630 : 20 fois
 id 2963 : 13 fois
 id 2724 : 12 fois
 id 3557 : 12 fois
@@ -1299,15 +1299,15 @@ id 2933 : 39 fois
 id 2961 : 29 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
-id 781 : 11 fois
 id 250 : 10 fois
+id 781 : 10 fois
 id 2006 : 10 fois
 id 1831 : 9 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
 id 2657 : 4 fois
 id 3151 : 4 fois
-id 251 : 3 fois
+id 251 : 2 fois
 id 1203 : 1 fois
 id 2605 : 1 fois
 
@@ -1333,11 +1333,11 @@ id 2108 : 2 fois
 
 
 LE_TUBE
-id 1913 : 184 fois
-id 1911 : 107 fois
-id 2226 : 78 fois
-id 3355 : 78 fois
-id 3044 : 48 fois
+id 1913 : 187 fois
+id 1911 : 109 fois
+id 2226 : 80 fois
+id 3355 : 80 fois
+id 3044 : 49 fois
 id 3052 : 22 fois
 id 3145 : 9 fois
 id 2225 : 6 fois
@@ -1398,7 +1398,7 @@ id 20 : 1 fois
 
 
 L_EFFET_PAPILLON
-id 1162 : 234 fois
+id 1162 : 239 fois
 id 2024 : 40 fois
 id 1095 : 10 fois
 id 3162 : 7 fois
@@ -1411,7 +1411,7 @@ id 3574 : 1 fois
 L_OEIL_DE_LINKS
 id 2967 : 100 fois
 id 3067 : 18 fois
-id 622 : 4 fois
+id 622 : 3 fois
 id 3386 : 1 fois
 
 
@@ -1756,11 +1756,11 @@ id 335 : 1 fois
 
 SALUT_LES_TERRIENS
 id 2355 : 60 fois
-id 2979 : 58 fois
-id 2403 : 44 fois
+id 2979 : 59 fois
+id 2403 : 45 fois
 id 1064 : 40 fois
 id 2022 : 40 fois
-id 2303 : 31 fois
+id 2303 : 32 fois
 id 661 : 30 fois
 id 680 : 30 fois
 id 3205 : 25 fois
@@ -1768,10 +1768,10 @@ id 3020 : 23 fois
 id 2983 : 20 fois
 id 3407 : 10 fois
 id 3163 : 7 fois
-id 1072 : 3 fois
+id 1072 : 4 fois
 id 2356 : 3 fois
+id 3607 : 3 fois
 id 1967 : 2 fois
-id 3607 : 2 fois
 id 3007 : 1 fois
 
 
