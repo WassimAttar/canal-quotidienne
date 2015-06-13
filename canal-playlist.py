@@ -1,11 +1,6 @@
 # coding: utf-8
 
-import os, time, xml.dom.minidom, socket, threading
-
-try:
-	import urllib.request as compat_urllib_request
-except ImportError:  # Python 2
-	import urllib2 as compat_urllib_request
+import os, time, xml.dom.minidom, threading, requests
 
 try:
 	import queue as compat_queue
@@ -27,7 +22,7 @@ class CanalScan :
 	__urlXmlMea = 'http://service.canal-plus.com/video/rest/getMEAs/cplus/{}'
 
 	def __init__(self):
-		pass
+		self.__sessionRequests = requests.session()
 
 	def __parseXml(self,xmldoc):
 		meas = xmldoc.getElementsByTagName('MEA')
@@ -41,8 +36,8 @@ class CanalScan :
 		xmlFile = None
 		while xmlFile is None :
 			try:
-				xmlFile = compat_urllib_request.urlopen(url,timeout = 3).read()
-			except (compat_urllib_request.URLError, socket.timeout) as err:
+				xmlFile = self.__sessionRequests.get(url,timeout=3).content
+			except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) :
 				if downloadTries > 3:
 					print("Problème de téléchargement, réessayez plus tard")
 					exit()
@@ -71,7 +66,6 @@ class CanalScan :
 		mea = self.__parseXmlMea(xmlMea)
 		if self.__parseXml(mea) :
 			self.__savePlaylist(xmlMea,codePlaylist)
-
 
 	def __worker(self):
 		while True :
