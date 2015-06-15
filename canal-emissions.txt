@@ -36,7 +36,7 @@ id 304 : 4 fois
 
 
 ACTUELLEMENT
-id 1112 : 193 fois
+id 1112 : 194 fois
 id 1115 : 55 fois
 
 
@@ -107,16 +107,16 @@ id 1576 : 100 fois
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
-id 1639 : 21 fois
+id 1639 : 19 fois
 id 3328 : 19 fois
 id 1633 : 13 fois
 id 1640 : 13 fois
 id 1641 : 13 fois
 id 1580 : 11 fois
 id 1632 : 11 fois
-id 1642 : 10 fois
 id 1669 : 10 fois
 id 1670 : 10 fois
+id 1642 : 9 fois
 id 3148 : 5 fois
 id 2020 : 4 fois
 id 1627 : 3 fois
@@ -166,8 +166,8 @@ id 266 : 20 fois
 id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
-id 617 : 6 fois
-id 1828 : 6 fois
+id 617 : 7 fois
+id 1828 : 7 fois
 id 3119 : 6 fois
 
 
@@ -204,7 +204,7 @@ id 1127 : 5 fois
 
 
 BODY OF PROOF - SAISON 2
-id 941 : 17 fois
+id 941 : 13 fois
 
 
 BONUS
@@ -550,10 +550,10 @@ id 52 : 6 fois
 id 1043 : 5 fois
 id 2751 : 4 fois
 id 3185 : 4 fois
-id 542 : 3 fois
 id 933 : 3 fois
 id 3329 : 3 fois
 id 277 : 2 fois
+id 542 : 2 fois
 id 808 : 2 fois
 id 809 : 2 fois
 id 1050 : 2 fois
@@ -741,8 +741,8 @@ id 164 : 20 fois
 id 165 : 20 fois
 id 169 : 20 fois
 id 3149 : 20 fois
-id 583 : 7 fois
 id 179 : 5 fois
+id 583 : 4 fois
 id 182 : 2 fois
 
 
@@ -793,8 +793,8 @@ id 2920 : 6 fois
 
 
 HANNIBAL_SAISON_3
+id 3603 : 2 fois
 id 3595 : 1 fois
-id 3603 : 1 fois
 
 
 HAPPY TOWN
@@ -818,6 +818,7 @@ id 573 : 38 fois
 HARD_SAISON_3
 id 3576 : 11 fois
 id 3597 : 5 fois
+id 3610 : 3 fois
 id 3593 : 1 fois
 
 
@@ -844,7 +845,7 @@ id 1353 : 5 fois
 
 
 HOLLYWOOD_LIVE
-id 966 : 58 fois
+id 966 : 59 fois
 id 1750 : 31 fois
 id 1694 : 5 fois
 
@@ -954,8 +955,8 @@ id 975 : 1 fois
 
 
 JDJV
-id 260 : 36 fois
-id 261 : 36 fois
+id 260 : 35 fois
+id 261 : 35 fois
 id 262 : 10 fois
 id 263 : 8 fois
 id 1998 : 3 fois
@@ -1055,8 +1056,8 @@ id 1052 : 1 fois
 
 
 LA_MUSICALE
-id 452 : 10 fois
-id 1766 : 10 fois
+id 452 : 9 fois
+id 1766 : 9 fois
 id 257 : 3 fois
 id 3425 : 3 fois
 id 1180 : 2 fois
@@ -1066,8 +1067,8 @@ id 3588 : 2 fois
 
 LA_NOUVELLE_EDITION
 id 2327 : 695 fois
-id 2460 : 181 fois
-id 3128 : 140 fois
+id 2460 : 179 fois
+id 3128 : 141 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
@@ -1075,12 +1076,12 @@ id 2463 : 100 fois
 id 2543 : 100 fois
 id 2417 : 54 fois
 id 2957 : 51 fois
+id 3123 : 49 fois
 id 632 : 48 fois
-id 3123 : 48 fois
 id 2419 : 41 fois
 id 2324 : 40 fois
 id 3129 : 40 fois
-id 2418 : 36 fois
+id 2418 : 35 fois
 id 2958 : 30 fois
 id 3122 : 24 fois
 id 3126 : 22 fois
@@ -1094,10 +1095,10 @@ id 687 : 10 fois
 id 3124 : 9 fois
 id 658 : 7 fois
 id 3127 : 5 fois
-id 2212 : 2 fois
 id 634 : 1 fois
 id 635 : 1 fois
 id 1839 : 1 fois
+id 2212 : 1 fois
 
 
 LA_SEMAINE_CINEMA
@@ -1188,23 +1189,23 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 230 fois
+id 1918 : 231 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
 id 3013 : 46 fois
-id 3016 : 36 fois
+id 3016 : 37 fois
 id 3027 : 18 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
-id 1903 : 9 fois
+id 1903 : 8 fois
 id 3155 : 7 fois
 id 2166 : 4 fois
-id 1058 : 2 fois
-id 1899 : 2 fois
-id 1957 : 2 fois
 id 2563 : 2 fois
+id 1058 : 1 fois
+id 1899 : 1 fois
 id 1904 : 1 fois
+id 1957 : 1 fois
 id 2557 : 1 fois
 id 3323 : 1 fois
 id 3484 : 1 fois
@@ -1228,7 +1229,7 @@ id 1294 : 1 fois
 
 
 LE_GRAND_FRISSON
-id 373 : 51 fois
+id 373 : 52 fois
 
 
 LE_GRAND_JOURNAL
@@ -1249,19 +1250,20 @@ id 302 : 24 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 630 : 20 fois
+id 129 : 19 fois
 id 2963 : 13 fois
-id 2724 : 12 fois
 id 3557 : 12 fois
+id 2724 : 11 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
-id 2591 : 10 fois
 id 3556 : 9 fois
+id 2591 : 8 fois
 id 3039 : 8 fois
 id 2929 : 7 fois
 id 104 : 6 fois
-id 2592 : 6 fois
 id 2727 : 6 fois
 id 3555 : 6 fois
+id 2592 : 5 fois
 id 562 : 4 fois
 id 3374 : 3 fois
 id 1169 : 2 fois
@@ -1274,8 +1276,8 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 5 fois
-id 3604 : 5 fois
+id 865 : 6 fois
+id 3604 : 6 fois
 id 1083 : 1 fois
 
 
@@ -1289,7 +1291,7 @@ id 2214 : 57 fois
 
 
 LE_PETIT_JOURNAL
-id 621 : 425 fois
+id 621 : 424 fois
 id 249 : 100 fois
 id 852 : 65 fois
 id 2300 : 50 fois
@@ -1300,9 +1302,9 @@ id 2961 : 29 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
 id 250 : 10 fois
-id 781 : 10 fois
 id 2006 : 10 fois
-id 1831 : 9 fois
+id 781 : 9 fois
+id 1831 : 8 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
 id 2657 : 4 fois
@@ -1314,19 +1316,19 @@ id 2605 : 1 fois
 
 LE_SUPPLEMENT
 id 2116 : 50 fois
-id 1504 : 34 fois
-id 3049 : 32 fois
-id 1088 : 31 fois
+id 1504 : 35 fois
+id 3049 : 33 fois
+id 1088 : 32 fois
 id 1148 : 31 fois
 id 2113 : 30 fois
-id 3057 : 28 fois
+id 3057 : 29 fois
 id 2117 : 10 fois
 id 1069 : 1 fois
 id 2749 : 1 fois
 
 
 LE_SUPPLEMENT_POLITIQUE
-id 2112 : 10 fois
+id 2112 : 7 fois
 id 1793 : 2 fois
 id 2107 : 2 fois
 id 2108 : 2 fois
@@ -1749,7 +1751,7 @@ id 1024 : 13 fois
 id 1384 : 13 fois
 id 378 : 12 fois
 id 811 : 8 fois
-id 268 : 6 fois
+id 268 : 4 fois
 id 1144 : 4 fois
 id 335 : 1 fois
 
@@ -1757,7 +1759,7 @@ id 335 : 1 fois
 SALUT_LES_TERRIENS
 id 2355 : 60 fois
 id 2979 : 59 fois
-id 2403 : 45 fois
+id 2403 : 44 fois
 id 1064 : 40 fois
 id 2022 : 40 fois
 id 2303 : 32 fois
@@ -1766,11 +1768,11 @@ id 680 : 30 fois
 id 3205 : 25 fois
 id 3020 : 23 fois
 id 2983 : 20 fois
-id 3407 : 10 fois
+id 3407 : 11 fois
 id 3163 : 7 fois
-id 1072 : 4 fois
+id 1072 : 5 fois
+id 3607 : 4 fois
 id 2356 : 3 fois
-id 3607 : 3 fois
 id 1967 : 2 fois
 id 3007 : 1 fois
 
@@ -1788,7 +1790,7 @@ id 2016 : 33 fois
 
 
 SEASONS_HEBDO
-id 1542 : 135 fois
+id 1542 : 137 fois
 id 1541 : 100 fois
 id 1543 : 100 fois
 id 1678 : 32 fois
@@ -1880,7 +1882,7 @@ id 3609 : 1 fois
 
 SPECIAL_INVESTIGATION
 id 131 : 39 fois
-id 794 : 22 fois
+id 794 : 21 fois
 id 1166 : 4 fois
 id 3500 : 4 fois
 id 3544 : 2 fois
@@ -2047,12 +2049,12 @@ id 2015 : 2 fois
 
 
 TUTOS
-id 1837 : 8 fois
+id 1837 : 7 fois
 
 
 TWEET_EN_CLAIR
-id 936 : 23 fois
-id 1065 : 23 fois
+id 936 : 22 fois
+id 1065 : 22 fois
 
 
 UN MONDE SANS FIN - SAISON 5
