@@ -428,12 +428,13 @@ id 228 : 4 fois
 
 
 CONVERSATION_SECRETE
+id 3202 : 9 fois
 id 3144 : 8 fois
-id 3202 : 8 fois
 id 3375 : 4 fois
 id 3376 : 4 fois
 id 3503 : 4 fois
 id 3504 : 4 fois
+id 3613 : 1 fois
 
 
 COULISSES_DE_TOURNAGE
@@ -742,8 +743,8 @@ id 165 : 20 fois
 id 169 : 20 fois
 id 3149 : 20 fois
 id 179 : 5 fois
-id 583 : 4 fois
 id 182 : 2 fois
+id 583 : 2 fois
 
 
 GOMORRA_S1
@@ -816,7 +817,7 @@ id 573 : 38 fois
 
 
 HARD_SAISON_3
-id 3576 : 11 fois
+id 3576 : 12 fois
 id 3597 : 5 fois
 id 3610 : 3 fois
 id 3593 : 1 fois
@@ -1142,7 +1143,7 @@ id 396 : 3 fois
 
 
 LES_GUIGNOLS
-id 222 : 233 fois
+id 222 : 232 fois
 id 672 : 54 fois
 id 684 : 51 fois
 id 48 : 16 fois
@@ -1316,10 +1317,10 @@ id 2605 : 1 fois
 
 LE_SUPPLEMENT
 id 2116 : 50 fois
-id 1504 : 35 fois
+id 1504 : 34 fois
 id 3049 : 33 fois
-id 1088 : 32 fois
-id 1148 : 31 fois
+id 1088 : 31 fois
+id 1148 : 30 fois
 id 2113 : 30 fois
 id 3057 : 29 fois
 id 2117 : 10 fois
@@ -1329,9 +1330,9 @@ id 2749 : 1 fois
 
 LE_SUPPLEMENT_POLITIQUE
 id 2112 : 7 fois
-id 1793 : 2 fois
-id 2107 : 2 fois
-id 2108 : 2 fois
+id 1793 : 1 fois
+id 2107 : 1 fois
+id 2108 : 1 fois
 
 
 LE_TUBE
@@ -1732,7 +1733,7 @@ id 2167 : 1 fois
 
 RUGBY
 id 1950 : 200 fois
-id 334 : 98 fois
+id 334 : 97 fois
 id 3054 : 97 fois
 id 6 : 50 fois
 id 1023 : 50 fois
@@ -2124,7 +2125,7 @@ id 3499 : 9 fois
 
 
 VIVA_CINEMA
-id 965 : 73 fois
+id 965 : 74 fois
 id 1699 : 50 fois
 
 
