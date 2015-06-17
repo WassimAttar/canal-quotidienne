@@ -36,7 +36,7 @@ id 304 : 4 fois
 
 
 ACTUELLEMENT
-id 1112 : 194 fois
+id 1112 : 197 fois
 id 1115 : 55 fois
 
 
@@ -107,16 +107,16 @@ id 1576 : 100 fois
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
-id 1639 : 19 fois
+id 1639 : 21 fois
 id 3328 : 19 fois
-id 1633 : 13 fois
-id 1640 : 13 fois
-id 1641 : 13 fois
-id 1580 : 11 fois
-id 1632 : 11 fois
+id 1633 : 16 fois
+id 1640 : 16 fois
+id 1641 : 16 fois
+id 1580 : 14 fois
+id 1632 : 14 fois
+id 1642 : 12 fois
 id 1669 : 10 fois
 id 1670 : 10 fois
-id 1642 : 9 fois
 id 3148 : 5 fois
 id 2020 : 4 fois
 id 1627 : 3 fois
@@ -166,8 +166,8 @@ id 266 : 20 fois
 id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
-id 617 : 7 fois
-id 1828 : 7 fois
+id 617 : 8 fois
+id 1828 : 8 fois
 id 3119 : 6 fois
 
 
@@ -428,13 +428,13 @@ id 228 : 4 fois
 
 
 CONVERSATION_SECRETE
-id 3202 : 9 fois
+id 3202 : 12 fois
 id 3144 : 8 fois
 id 3375 : 4 fois
 id 3376 : 4 fois
 id 3503 : 4 fois
 id 3504 : 4 fois
-id 3613 : 1 fois
+id 3613 : 4 fois
 
 
 COULISSES_DE_TOURNAGE
@@ -552,13 +552,13 @@ id 1043 : 5 fois
 id 2751 : 4 fois
 id 3185 : 4 fois
 id 933 : 3 fois
-id 3329 : 3 fois
 id 277 : 2 fois
 id 542 : 2 fois
 id 808 : 2 fois
 id 809 : 2 fois
 id 1050 : 2 fois
 id 1192 : 2 fois
+id 3329 : 2 fois
 id 145 : 1 fois
 id 2376 : 1 fois
 id 2744 : 1 fois
@@ -566,7 +566,7 @@ id 2744 : 1 fois
 
 EMISSIONS_EVENEMENTIELLES
 id 44 : 20 fois
-id 2748 : 14 fois
+id 2748 : 10 fois
 id 3168 : 5 fois
 
 
@@ -606,7 +606,6 @@ id 3508 : 1 fois
 
 
 FACE_AU_FILM
-id 1114 : 30 fois
 id 1650 : 30 fois
 id 1637 : 20 fois
 
@@ -667,10 +666,10 @@ id 594 : 17 fois
 id 162 : 16 fois
 id 611 : 14 fois
 id 1196 : 13 fois
-id 146 : 10 fois
 id 385 : 10 fois
 id 386 : 10 fois
 id 1152 : 10 fois
+id 146 : 9 fois
 id 331 : 9 fois
 id 3433 : 9 fois
 id 2529 : 8 fois
@@ -699,6 +698,7 @@ id 3412 : 20 fois
 id 3416 : 20 fois
 id 3464 : 14 fois
 id 3422 : 6 fois
+id 3467 : 1 fois
 
 
 FRISSON_BREAK
@@ -744,7 +744,7 @@ id 169 : 20 fois
 id 3149 : 20 fois
 id 179 : 5 fois
 id 182 : 2 fois
-id 583 : 2 fois
+id 583 : 1 fois
 
 
 GOMORRA_S1
@@ -819,7 +819,7 @@ id 573 : 38 fois
 HARD_SAISON_3
 id 3576 : 12 fois
 id 3597 : 5 fois
-id 3610 : 3 fois
+id 3610 : 4 fois
 id 3593 : 1 fois
 
 
@@ -1067,26 +1067,26 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 695 fois
-id 2460 : 179 fois
-id 3128 : 141 fois
+id 2327 : 693 fois
+id 2460 : 177 fois
+id 3128 : 140 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
-id 2417 : 54 fois
+id 2417 : 53 fois
 id 2957 : 51 fois
 id 3123 : 49 fois
-id 632 : 48 fois
+id 632 : 47 fois
 id 2419 : 41 fois
 id 2324 : 40 fois
 id 3129 : 40 fois
 id 2418 : 35 fois
-id 2958 : 30 fois
+id 2958 : 31 fois
 id 3122 : 24 fois
+id 3354 : 23 fois
 id 3126 : 22 fois
-id 3354 : 22 fois
 id 628 : 20 fois
 id 3150 : 12 fois
 id 3391 : 11 fois
@@ -1094,7 +1094,7 @@ id 3415 : 11 fois
 id 3487 : 11 fois
 id 687 : 10 fois
 id 3124 : 9 fois
-id 658 : 7 fois
+id 658 : 6 fois
 id 3127 : 5 fois
 id 634 : 1 fois
 id 635 : 1 fois
@@ -1178,7 +1178,7 @@ id 2942 : 12 fois
 
 
 LES_REVENANTS_SAISON_1
-id 3289 : 14 fois
+id 3289 : 21 fois
 id 3290 : 10 fois
 id 3292 : 3 fois
 id 3291 : 1 fois
@@ -1190,16 +1190,16 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 231 fois
+id 1918 : 232 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 46 fois
+id 3013 : 47 fois
 id 3016 : 37 fois
 id 3027 : 18 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
-id 1903 : 8 fois
+id 1903 : 7 fois
 id 3155 : 7 fois
 id 2166 : 4 fois
 id 2563 : 2 fois
@@ -1250,22 +1250,22 @@ id 2968 : 26 fois
 id 302 : 24 fois
 id 108 : 20 fois
 id 233 : 20 fois
-id 630 : 20 fois
 id 129 : 19 fois
+id 630 : 19 fois
 id 2963 : 13 fois
 id 3557 : 12 fois
 id 2724 : 11 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
 id 3556 : 9 fois
-id 2591 : 8 fois
 id 3039 : 8 fois
+id 2591 : 7 fois
 id 2929 : 7 fois
 id 104 : 6 fois
 id 2727 : 6 fois
 id 3555 : 6 fois
-id 2592 : 5 fois
 id 562 : 4 fois
+id 2592 : 4 fois
 id 3374 : 3 fois
 id 1169 : 2 fois
 id 225 : 1 fois
@@ -1277,8 +1277,8 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 6 fois
-id 3604 : 6 fois
+id 865 : 7 fois
+id 3604 : 7 fois
 id 1083 : 1 fois
 
 
@@ -1292,19 +1292,19 @@ id 2214 : 57 fois
 
 
 LE_PETIT_JOURNAL
-id 621 : 424 fois
+id 621 : 425 fois
 id 249 : 100 fois
 id 852 : 65 fois
 id 2300 : 50 fois
 id 2978 : 50 fois
 id 2981 : 50 fois
-id 2933 : 39 fois
+id 2933 : 40 fois
 id 2961 : 29 fois
 id 2932 : 19 fois
 id 2980 : 19 fois
 id 250 : 10 fois
 id 2006 : 10 fois
-id 781 : 9 fois
+id 781 : 8 fois
 id 1831 : 8 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
@@ -1602,7 +1602,7 @@ id 3596 : 1 fois
 
 PAR_ICI_LES_SORTIES
 id 1704 : 300 fois
-id 341 : 41 fois
+id 341 : 42 fois
 
 
 PECHE
@@ -1612,7 +1612,7 @@ id 1566 : 7 fois
 
 
 PENDANT_CE_TEMPS
-id 1825 : 6 fois
+id 1825 : 5 fois
 
 
 PEPITES_SUR_LE_NET
@@ -1774,6 +1774,7 @@ id 3163 : 7 fois
 id 1072 : 5 fois
 id 3607 : 4 fois
 id 2356 : 3 fois
+id 3617 : 3 fois
 id 1967 : 2 fois
 id 3007 : 1 fois
 
@@ -2041,6 +2042,7 @@ id 2782 : 10 fois
 
 
 TOUS_CINEMA
+id 1114 : 50 fois
 id 3028 : 36 fois
 
 
