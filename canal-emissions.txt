@@ -36,7 +36,7 @@ id 304 : 4 fois
 
 
 ACTUELLEMENT
-id 1112 : 197 fois
+id 1112 : 196 fois
 id 1115 : 55 fois
 
 
@@ -166,8 +166,8 @@ id 266 : 20 fois
 id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
-id 617 : 8 fois
-id 1828 : 8 fois
+id 617 : 9 fois
+id 1828 : 9 fois
 id 3119 : 6 fois
 
 
@@ -423,7 +423,7 @@ id 1602 : 6 fois
 
 
 CONNASSE
-id 2311 : 13 fois
+id 2311 : 12 fois
 id 228 : 4 fois
 
 
@@ -528,7 +528,7 @@ id 243 : 5 fois
 
 
 EMISSION
-id 1049 : 110 fois
+id 1049 : 109 fois
 id 896 : 105 fois
 id 1880 : 60 fois
 id 1693 : 50 fois
@@ -794,7 +794,7 @@ id 2920 : 6 fois
 
 
 HANNIBAL_SAISON_3
-id 3603 : 2 fois
+id 3603 : 3 fois
 id 3595 : 1 fois
 
 
@@ -1067,8 +1067,8 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 693 fois
-id 2460 : 177 fois
+id 2327 : 694 fois
+id 2460 : 176 fois
 id 3128 : 140 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
@@ -1078,23 +1078,23 @@ id 2543 : 100 fois
 id 2417 : 53 fois
 id 2957 : 51 fois
 id 3123 : 49 fois
-id 632 : 47 fois
+id 632 : 46 fois
 id 2419 : 41 fois
 id 2324 : 40 fois
 id 3129 : 40 fois
 id 2418 : 35 fois
 id 2958 : 31 fois
-id 3122 : 24 fois
+id 3122 : 25 fois
 id 3354 : 23 fois
 id 3126 : 22 fois
 id 628 : 20 fois
 id 3150 : 12 fois
-id 3391 : 11 fois
-id 3415 : 11 fois
-id 3487 : 11 fois
+id 3391 : 12 fois
+id 3415 : 12 fois
+id 3487 : 12 fois
 id 687 : 10 fois
 id 3124 : 9 fois
-id 658 : 6 fois
+id 658 : 5 fois
 id 3127 : 5 fois
 id 634 : 1 fois
 id 635 : 1 fois
@@ -1199,8 +1199,8 @@ id 3016 : 37 fois
 id 3027 : 18 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
-id 1903 : 7 fois
 id 3155 : 7 fois
+id 1903 : 6 fois
 id 2166 : 4 fois
 id 2563 : 2 fois
 id 1058 : 1 fois
@@ -1247,17 +1247,17 @@ id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
 id 2968 : 26 fois
-id 302 : 24 fois
+id 302 : 25 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 129 : 19 fois
-id 630 : 19 fois
+id 630 : 18 fois
 id 2963 : 13 fois
 id 3557 : 12 fois
-id 2724 : 11 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
 id 3556 : 9 fois
+id 2724 : 8 fois
 id 3039 : 8 fois
 id 2591 : 7 fois
 id 2929 : 7 fois
@@ -1277,8 +1277,8 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 7 fois
-id 3604 : 7 fois
+id 865 : 8 fois
+id 3604 : 8 fois
 id 1083 : 1 fois
 
 
@@ -1304,10 +1304,11 @@ id 2932 : 19 fois
 id 2980 : 19 fois
 id 250 : 10 fois
 id 2006 : 10 fois
-id 781 : 8 fois
 id 1831 : 8 fois
+id 781 : 7 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
+id 3621 : 6 fois
 id 2657 : 4 fois
 id 3151 : 4 fois
 id 251 : 2 fois
@@ -1596,7 +1597,7 @@ id 1592 : 9 fois
 
 
 PARKS_AND_RECREATION
-id 3587 : 6 fois
+id 3587 : 7 fois
 id 3596 : 1 fois
 
 
@@ -1612,7 +1613,7 @@ id 1566 : 7 fois
 
 
 PENDANT_CE_TEMPS
-id 1825 : 5 fois
+id 1825 : 4 fois
 
 
 PEPITES_SUR_LE_NET
