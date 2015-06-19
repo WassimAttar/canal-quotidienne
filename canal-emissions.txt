@@ -96,7 +96,7 @@ id 3211 : 23 fois
 id 888 : 18 fois
 id 2145 : 17 fois
 id 3000 : 16 fois
-id 168 : 13 fois
+id 168 : 14 fois
 id 187 : 3 fois
 id 2144 : 3 fois
 id 1074 : 1 fois
@@ -107,7 +107,7 @@ id 1576 : 100 fois
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
-id 1639 : 21 fois
+id 1639 : 20 fois
 id 3328 : 19 fois
 id 1633 : 16 fois
 id 1640 : 16 fois
@@ -334,7 +334,7 @@ id 2669 : 9 fois
 
 CEREMONIES
 id 230 : 40 fois
-id 1594 : 8 fois
+id 1594 : 7 fois
 id 3545 : 5 fois
 id 3580 : 5 fois
 
@@ -616,6 +616,10 @@ id 2457 : 25 fois
 id 1705 : 3 fois
 
 
+FILLES_D_AUJOURDHUI
+id 3639 : 10 fois
+
+
 FILM
 id 2201 : 3 fois
 id 2202 : 3 fois
@@ -697,8 +701,8 @@ id 3466 : 26 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
 id 3464 : 14 fois
+id 3467 : 10 fois
 id 3422 : 6 fois
-id 3467 : 1 fois
 
 
 FRISSON_BREAK
@@ -1067,7 +1071,7 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 694 fois
+id 2327 : 695 fois
 id 2460 : 176 fois
 id 3128 : 140 fois
 id 1449 : 111 fois
@@ -1075,14 +1079,14 @@ id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
-id 2417 : 53 fois
+id 2417 : 52 fois
 id 2957 : 51 fois
 id 3123 : 49 fois
 id 632 : 46 fois
-id 2419 : 41 fois
-id 2324 : 40 fois
+id 2419 : 42 fois
+id 2324 : 41 fois
 id 3129 : 40 fois
-id 2418 : 35 fois
+id 2418 : 36 fois
 id 2958 : 31 fois
 id 3122 : 25 fois
 id 3354 : 23 fois
@@ -1094,8 +1098,8 @@ id 3415 : 12 fois
 id 3487 : 12 fois
 id 687 : 10 fois
 id 3124 : 9 fois
-id 658 : 5 fois
 id 3127 : 5 fois
+id 658 : 4 fois
 id 634 : 1 fois
 id 635 : 1 fois
 id 1839 : 1 fois
@@ -1156,6 +1160,7 @@ id 1222 : 1 fois
 
 LES_KASSOS
 id 2207 : 10 fois
+id 3635 : 10 fois
 id 3373 : 8 fois
 id 2205 : 1 fois
 
@@ -1190,18 +1195,18 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 232 fois
+id 1918 : 233 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 47 fois
+id 3013 : 48 fois
 id 3016 : 37 fois
 id 3027 : 18 fois
 id 2770 : 10 fois
 id 3021 : 10 fois
 id 3155 : 7 fois
-id 1903 : 6 fois
-id 2166 : 4 fois
+id 1903 : 5 fois
+id 2166 : 3 fois
 id 2563 : 2 fois
 id 1058 : 1 fois
 id 1899 : 1 fois
@@ -1242,7 +1247,7 @@ id 2935 : 62 fois
 id 1453 : 53 fois
 id 2599 : 50 fois
 id 3195 : 50 fois
-id 2947 : 36 fois
+id 2947 : 37 fois
 id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
@@ -1251,7 +1256,7 @@ id 302 : 25 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 129 : 19 fois
-id 630 : 18 fois
+id 630 : 17 fois
 id 2963 : 13 fois
 id 3557 : 12 fois
 id 1045 : 10 fois
@@ -1277,8 +1282,8 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 8 fois
-id 3604 : 8 fois
+id 865 : 9 fois
+id 3604 : 9 fois
 id 1083 : 1 fois
 
 
@@ -1292,7 +1297,7 @@ id 2214 : 57 fois
 
 
 LE_PETIT_JOURNAL
-id 621 : 425 fois
+id 621 : 424 fois
 id 249 : 100 fois
 id 852 : 65 fois
 id 2300 : 50 fois
@@ -1304,8 +1309,11 @@ id 2932 : 19 fois
 id 2980 : 19 fois
 id 250 : 10 fois
 id 2006 : 10 fois
-id 1831 : 8 fois
-id 781 : 7 fois
+id 3637 : 10 fois
+id 3638 : 10 fois
+id 1831 : 7 fois
+id 3619 : 7 fois
+id 781 : 6 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
 id 3621 : 6 fois
@@ -1597,7 +1605,7 @@ id 1592 : 9 fois
 
 
 PARKS_AND_RECREATION
-id 3587 : 7 fois
+id 3587 : 9 fois
 id 3596 : 1 fois
 
 
@@ -1613,7 +1621,7 @@ id 1566 : 7 fois
 
 
 PENDANT_CE_TEMPS
-id 1825 : 4 fois
+id 1825 : 3 fois
 
 
 PEPITES_SUR_LE_NET
@@ -1885,7 +1893,7 @@ id 3609 : 1 fois
 
 SPECIAL_INVESTIGATION
 id 131 : 39 fois
-id 794 : 21 fois
+id 794 : 22 fois
 id 1166 : 4 fois
 id 3500 : 4 fois
 id 3544 : 2 fois
@@ -2044,7 +2052,7 @@ id 2782 : 10 fois
 
 TOUS_CINEMA
 id 1114 : 50 fois
-id 3028 : 36 fois
+id 3028 : 37 fois
 
 
 TUNNEL
