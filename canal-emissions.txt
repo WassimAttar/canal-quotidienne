@@ -36,8 +36,8 @@ id 304 : 4 fois
 
 
 ACTUELLEMENT
-id 1112 : 196 fois
-id 1115 : 55 fois
+id 1112 : 198 fois
+id 1115 : 56 fois
 
 
 ADIEU DE GAULLE ADIEU
@@ -59,9 +59,10 @@ id 241 : 1 fois
 
 ALBUM_DE_LA_SEMAINE
 id 1089 : 300 fois
-id 336 : 42 fois
+id 336 : 43 fois
 id 339 : 21 fois
 id 32 : 15 fois
+id 3655 : 10 fois
 id 337 : 8 fois
 id 3161 : 7 fois
 id 338 : 4 fois
@@ -96,7 +97,7 @@ id 3211 : 23 fois
 id 888 : 18 fois
 id 2145 : 17 fois
 id 3000 : 16 fois
-id 168 : 14 fois
+id 168 : 15 fois
 id 187 : 3 fois
 id 2144 : 3 fois
 id 1074 : 1 fois
@@ -107,14 +108,14 @@ id 1576 : 100 fois
 id 1578 : 100 fois
 id 1629 : 30 fois
 id 1643 : 30 fois
-id 1639 : 20 fois
+id 1639 : 23 fois
 id 3328 : 19 fois
 id 1633 : 16 fois
 id 1640 : 16 fois
 id 1641 : 16 fois
 id 1580 : 14 fois
 id 1632 : 14 fois
-id 1642 : 12 fois
+id 1642 : 14 fois
 id 1669 : 10 fois
 id 1670 : 10 fois
 id 3148 : 5 fois
@@ -155,7 +156,7 @@ BANSHEE_S3
 id 3293 : 13 fois
 id 3296 : 3 fois
 id 3299 : 3 fois
-id 3300 : 1 fois
+id 3300 : 2 fois
 
 
 BASKET
@@ -163,11 +164,11 @@ id 5 : 50 fois
 id 2921 : 50 fois
 id 265 : 20 fois
 id 266 : 20 fois
+id 617 : 17 fois
+id 1828 : 17 fois
 id 315 : 15 fois
 id 588 : 15 fois
 id 181 : 9 fois
-id 617 : 9 fois
-id 1828 : 9 fois
 id 3119 : 6 fois
 
 
@@ -398,9 +399,9 @@ id 3592 : 11 fois
 
 
 CLIQUE
-id 1909 : 12 fois
-id 2000 : 8 fois
-id 1910 : 5 fois
+id 1909 : 9 fois
+id 2000 : 6 fois
+id 1910 : 4 fois
 id 2562 : 3 fois
 id 1993 : 1 fois
 
@@ -423,7 +424,7 @@ id 1602 : 6 fois
 
 
 CONNASSE
-id 2311 : 12 fois
+id 2311 : 11 fois
 id 228 : 4 fois
 
 
@@ -566,7 +567,7 @@ id 2744 : 1 fois
 
 EMISSIONS_EVENEMENTIELLES
 id 44 : 20 fois
-id 2748 : 10 fois
+id 2748 : 9 fois
 id 3168 : 5 fois
 
 
@@ -594,7 +595,7 @@ id 2584 : 2 fois
 
 
 ETE_DU_WEB
-id 2758 : 17 fois
+id 2758 : 15 fois
 id 2757 : 1 fois
 
 
@@ -690,6 +691,7 @@ id 267 : 1 fois
 
 FORMULE_1
 id 3056 : 100 fois
+id 3467 : 34 fois
 id 3485 : 34 fois
 id 1369 : 33 fois
 id 1407 : 30 fois
@@ -701,7 +703,6 @@ id 3466 : 26 fois
 id 3412 : 20 fois
 id 3416 : 20 fois
 id 3464 : 14 fois
-id 3467 : 10 fois
 id 3422 : 6 fois
 
 
@@ -747,8 +748,8 @@ id 165 : 20 fois
 id 169 : 20 fois
 id 3149 : 20 fois
 id 179 : 5 fois
+id 583 : 4 fois
 id 182 : 2 fois
-id 583 : 1 fois
 
 
 GOMORRA_S1
@@ -823,7 +824,7 @@ id 573 : 38 fois
 HARD_SAISON_3
 id 3576 : 12 fois
 id 3597 : 5 fois
-id 3610 : 4 fois
+id 3610 : 5 fois
 id 3593 : 1 fois
 
 
@@ -932,17 +933,17 @@ id 7 : 30 fois
 id 361 : 30 fois
 id 363 : 30 fois
 id 1817 : 28 fois
-id 1022 : 24 fois
+id 1022 : 23 fois
 id 362 : 21 fois
 id 177 : 20 fois
-id 390 : 18 fois
+id 390 : 17 fois
 id 2997 : 14 fois
 id 624 : 13 fois
 id 360 : 12 fois
 id 389 : 12 fois
 id 388 : 8 fois
 id 468 : 8 fois
-id 2732 : 7 fois
+id 2732 : 6 fois
 
 
 INTERVIEW
@@ -960,10 +961,11 @@ id 975 : 1 fois
 
 
 JDJV
-id 260 : 35 fois
-id 261 : 35 fois
+id 260 : 34 fois
+id 261 : 34 fois
 id 262 : 10 fois
-id 263 : 8 fois
+id 3666 : 10 fois
+id 263 : 7 fois
 id 1998 : 3 fois
 
 
@@ -1061,6 +1063,7 @@ id 1052 : 1 fois
 
 
 LA_MUSICALE
+id 3658 : 15 fois
 id 452 : 9 fois
 id 1766 : 9 fois
 id 257 : 3 fois
@@ -1071,25 +1074,26 @@ id 3588 : 2 fois
 
 
 LA_NOUVELLE_EDITION
-id 2327 : 695 fois
-id 2460 : 176 fois
-id 3128 : 140 fois
+id 2327 : 693 fois
+id 2460 : 175 fois
+id 3128 : 138 fois
 id 1449 : 111 fois
 id 2964 : 101 fois
 id 2965 : 101 fois
 id 2463 : 100 fois
 id 2543 : 100 fois
-id 2417 : 52 fois
+id 2417 : 51 fois
 id 2957 : 51 fois
-id 3123 : 49 fois
-id 632 : 46 fois
-id 2419 : 42 fois
-id 2324 : 41 fois
+id 3123 : 50 fois
+id 632 : 43 fois
+id 2324 : 43 fois
+id 2419 : 41 fois
 id 3129 : 40 fois
-id 2418 : 36 fois
-id 2958 : 31 fois
+id 2418 : 35 fois
+id 2958 : 32 fois
 id 3122 : 25 fois
-id 3354 : 23 fois
+id 3354 : 24 fois
+id 3673 : 24 fois
 id 3126 : 22 fois
 id 628 : 20 fois
 id 3150 : 12 fois
@@ -1097,9 +1101,10 @@ id 3391 : 12 fois
 id 3415 : 12 fois
 id 3487 : 12 fois
 id 687 : 10 fois
+id 3649 : 10 fois
 id 3124 : 9 fois
 id 3127 : 5 fois
-id 658 : 4 fois
+id 658 : 3 fois
 id 634 : 1 fois
 id 635 : 1 fois
 id 1839 : 1 fois
@@ -1147,10 +1152,11 @@ id 396 : 3 fois
 
 
 LES_GUIGNOLS
-id 222 : 232 fois
+id 222 : 233 fois
 id 672 : 54 fois
 id 684 : 51 fois
 id 48 : 16 fois
+id 3647 : 10 fois
 id 3166 : 7 fois
 id 1126 : 6 fois
 id 1214 : 3 fois
@@ -1161,6 +1167,7 @@ id 1222 : 1 fois
 LES_KASSOS
 id 2207 : 10 fois
 id 3635 : 10 fois
+id 3671 : 10 fois
 id 3373 : 8 fois
 id 2205 : 1 fois
 
@@ -1183,10 +1190,10 @@ id 2942 : 12 fois
 
 
 LES_REVENANTS_SAISON_1
-id 3289 : 21 fois
+id 3289 : 22 fois
 id 3290 : 10 fois
 id 3292 : 3 fois
-id 3291 : 1 fois
+id 3291 : 2 fois
 
 
 LES_REVENANTS_SAISON_2
@@ -1195,17 +1202,19 @@ id 3303 : 5 fois
 
 LE_BEFORE
 id 1980 : 500 fois
-id 1918 : 233 fois
+id 1918 : 232 fois
 id 1902 : 101 fois
 id 1920 : 100 fois
 id 3336 : 70 fois
-id 3013 : 48 fois
+id 3013 : 47 fois
 id 3016 : 37 fois
 id 3027 : 18 fois
-id 2770 : 10 fois
 id 3021 : 10 fois
+id 3642 : 10 fois
+id 3644 : 10 fois
+id 2770 : 9 fois
 id 3155 : 7 fois
-id 1903 : 5 fois
+id 1903 : 3 fois
 id 2166 : 3 fois
 id 2563 : 2 fois
 id 1058 : 1 fois
@@ -1218,11 +1227,11 @@ id 3484 : 1 fois
 
 
 LE_BOUCAN_DU_JOUR
-id 62 : 13 fois
-id 203 : 13 fois
-id 204 : 13 fois
-id 205 : 13 fois
-id 2023 : 13 fois
+id 62 : 12 fois
+id 203 : 12 fois
+id 204 : 12 fois
+id 205 : 12 fois
+id 2023 : 12 fois
 
 
 LE_CERCLE
@@ -1252,27 +1261,31 @@ id 2938 : 31 fois
 id 1037 : 28 fois
 id 1823 : 28 fois
 id 2968 : 26 fois
-id 302 : 25 fois
+id 302 : 24 fois
 id 108 : 20 fois
 id 233 : 20 fois
 id 129 : 19 fois
-id 630 : 17 fois
+id 3661 : 15 fois
+id 630 : 14 fois
 id 2963 : 13 fois
 id 3557 : 12 fois
 id 1045 : 10 fois
 id 1596 : 10 fois
+id 3643 : 10 fois
+id 3656 : 10 fois
 id 3556 : 9 fois
-id 2724 : 8 fois
 id 3039 : 8 fois
 id 2591 : 7 fois
 id 2929 : 7 fois
 id 104 : 6 fois
 id 2727 : 6 fois
 id 3555 : 6 fois
+id 2724 : 5 fois
 id 562 : 4 fois
-id 2592 : 4 fois
+id 2592 : 3 fois
 id 3374 : 3 fois
 id 1169 : 2 fois
+id 3652 : 2 fois
 id 225 : 1 fois
 id 827 : 1 fois
 id 1091 : 1 fois
@@ -1282,8 +1295,9 @@ id 3554 : 1 fois
 
 LE_JT_DE_CANALPLUS
 id 211 : 24 fois
-id 865 : 9 fois
-id 3604 : 9 fois
+id 865 : 12 fois
+id 3604 : 12 fois
+id 3653 : 3 fois
 id 1083 : 1 fois
 
 
@@ -1294,10 +1308,11 @@ id 215 : 80 fois
 id 1317 : 80 fois
 id 214 : 57 fois
 id 2214 : 57 fois
+id 3659 : 10 fois
 
 
 LE_PETIT_JOURNAL
-id 621 : 424 fois
+id 621 : 422 fois
 id 249 : 100 fois
 id 852 : 65 fois
 id 2300 : 50 fois
@@ -1311,12 +1326,13 @@ id 250 : 10 fois
 id 2006 : 10 fois
 id 3637 : 10 fois
 id 3638 : 10 fois
-id 1831 : 7 fois
+id 3651 : 10 fois
 id 3619 : 7 fois
-id 781 : 6 fois
 id 1124 : 6 fois
 id 3246 : 6 fois
 id 3621 : 6 fois
+id 1831 : 5 fois
+id 781 : 4 fois
 id 2657 : 4 fois
 id 3151 : 4 fois
 id 251 : 2 fois
@@ -1326,6 +1342,7 @@ id 2605 : 1 fois
 
 LE_SUPPLEMENT
 id 2116 : 50 fois
+id 3650 : 40 fois
 id 1504 : 34 fois
 id 3049 : 33 fois
 id 1088 : 31 fois
@@ -1338,19 +1355,20 @@ id 2749 : 1 fois
 
 
 LE_SUPPLEMENT_POLITIQUE
-id 2112 : 7 fois
+id 2112 : 6 fois
 id 1793 : 1 fois
 id 2107 : 1 fois
 id 2108 : 1 fois
 
 
 LE_TUBE
-id 1913 : 187 fois
+id 1913 : 188 fois
 id 1911 : 109 fois
-id 2226 : 80 fois
-id 3355 : 80 fois
+id 2226 : 79 fois
+id 3355 : 79 fois
 id 3044 : 49 fois
-id 3052 : 22 fois
+id 3052 : 23 fois
+id 3660 : 10 fois
 id 3145 : 9 fois
 id 2225 : 6 fois
 id 3053 : 3 fois
@@ -1373,7 +1391,7 @@ id 3451 : 2 fois
 
 
 LIVE_DE_LA_SEMAINE
-id 1067 : 23 fois
+id 1067 : 26 fois
 
 
 LUCK
@@ -1413,6 +1431,7 @@ L_EFFET_PAPILLON
 id 1162 : 239 fois
 id 2024 : 40 fois
 id 1095 : 10 fois
+id 3648 : 10 fois
 id 3162 : 7 fois
 id 3190 : 5 fois
 id 3410 : 5 fois
@@ -1423,6 +1442,7 @@ id 3574 : 1 fois
 L_OEIL_DE_LINKS
 id 2967 : 100 fois
 id 3067 : 18 fois
+id 3665 : 15 fois
 id 622 : 3 fois
 id 3386 : 1 fois
 
@@ -1575,7 +1595,7 @@ id 3004 : 1 fois
 
 
 OPERATION_FRISSON
-id 1683 : 17 fois
+id 1683 : 18 fois
 
 
 OSCARS
@@ -1596,6 +1616,7 @@ id 1170 : 60 fois
 id 1174 : 25 fois
 id 1176 : 20 fois
 id 1420 : 10 fois
+id 3645 : 10 fois
 id 1194 : 9 fois
 id 1175 : 4 fois
 
@@ -1611,7 +1632,7 @@ id 3596 : 1 fois
 
 PAR_ICI_LES_SORTIES
 id 1704 : 300 fois
-id 341 : 42 fois
+id 341 : 43 fois
 
 
 PECHE
@@ -1630,6 +1651,7 @@ id 1189 : 100 fois
 id 1188 : 36 fois
 id 321 : 20 fois
 id 320 : 10 fois
+id 3664 : 10 fois
 
 
 PHOTOCALL
@@ -1761,8 +1783,8 @@ id 1024 : 13 fois
 id 1384 : 13 fois
 id 378 : 12 fois
 id 811 : 8 fois
-id 268 : 4 fois
 id 1144 : 4 fois
+id 268 : 2 fois
 id 335 : 1 fois
 
 
@@ -1778,9 +1800,10 @@ id 680 : 30 fois
 id 3205 : 25 fois
 id 3020 : 23 fois
 id 2983 : 20 fois
-id 3407 : 11 fois
+id 3407 : 12 fois
+id 1072 : 10 fois
 id 3163 : 7 fois
-id 1072 : 5 fois
+id 3616 : 5 fois
 id 3607 : 4 fois
 id 2356 : 3 fois
 id 3617 : 3 fois
@@ -1802,8 +1825,8 @@ id 2016 : 33 fois
 
 SEASONS_HEBDO
 id 1542 : 137 fois
+id 1543 : 102 fois
 id 1541 : 100 fois
-id 1543 : 100 fois
 id 1678 : 32 fois
 id 1544 : 19 fois
 id 1545 : 13 fois
@@ -2024,6 +2047,10 @@ id 2293 : 10 fois
 id 2294 : 9 fois
 
 
+THE_HONOURABLE_WOMAN
+id 3675 : 3 fois
+
+
 THE_NEWSROOM
 id 3121 : 6 fois
 
@@ -2055,18 +2082,22 @@ id 1114 : 50 fois
 id 3028 : 37 fois
 
 
+TPMP
+id 3662 : 15 fois
+
+
 TUNNEL
 id 2095 : 10 fois
 id 2015 : 2 fois
 
 
 TUTOS
-id 1837 : 7 fois
+id 1837 : 6 fois
 
 
 TWEET_EN_CLAIR
-id 936 : 22 fois
-id 1065 : 22 fois
+id 936 : 21 fois
+id 1065 : 21 fois
 
 
 UN MONDE SANS FIN - SAISON 5
@@ -2136,7 +2167,7 @@ id 3499 : 9 fois
 
 
 VIVA_CINEMA
-id 965 : 74 fois
+id 965 : 75 fois
 id 1699 : 50 fois
 
 
@@ -2226,6 +2257,7 @@ id 1395 : 1 fois
 
 ZAPPING
 id 201 : 101 fois
+id 3654 : 10 fois
 id 207 : 9 fois
 id 785 : 1 fois
 id 1225 : 1 fois
